@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2026 Conference Map</title>
+  <meta name="description" content="Interactive map of 2026 conference attendance, missed events, and scheduled conferences.">
+
+  <style>
+    html,
+    body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: transparent;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+      min-height: 500px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map" aria-label="2026 conference map"></div>
+
+  <!-- SimpleMaps configuration must load before the map engine. -->
+  <script src="mapdata.js"></script>
+  <script src="namap.js"></script>
+</body>
+</html>
