@@ -271,1787 +271,1787 @@ var simplemaps_namap_mapdata={
   },
   locations: {
     "0": {
-      name: "Sierra Blanca Wildland Fire Academy",
+      name: "Florida Fire EMS Conference",
       color: "#3076bc",
-      url: "https://sbwfacademy.com/vendors/",
-      lat: 33.346,
-      lng: -105.675
+      lat: 28.515091,
+      lng: -81.208589,
+      url: "https://flfireems.com/"
     },
     "1": {
-      name: "South Dakota Fire Instructors Conference",
-      color: "#f99c1c",
-      lat: 43.691,
-      lng: -98.008
+      name: "Sierra Blanca Wildland Fire Academy",
+      color: "#3076bc",
+      lat: 33.346232,
+      lng: -105.677363,
+      url: "https://sbwfacademy.com/vendors/"
     },
     "2": {
-      name: "Command from the Sand",
-      color: "#3076bc",
-      url: "https://1stduetactics.com/command-from-the-sand-2",
-      lat: 34.032,
-      lng: -77.893
+      name: "South Dakota Fire Instructors Conference",
+      color: "#f99c1c",
+      lat: 43.690603,
+      lng: -98.007326
     },
     "3": {
-      name: "AFDA Conference Arizona Fire Districts Association",
+      name: "Command from the Sand",
       color: "#3076bc",
-      url: "https://azfiredistricts.org/conferences/",
-      lat: 35.164,
-      lng: -114.572
+      lat: 34.032487,
+      lng: -77.892896,
+      url: "https://1stduetactics.com/command-from-the-sand-2"
     },
     "4": {
-      name: "TMA Tri Mutual Aid Omaha NE",
-      color: "#f99c1c",
-      url: "https://tmafireandems.org/class-schedule-tma-training-day.html",
-      lat: 41.352,
-      lng: -96.095
+      name: "AFDA Conference Arizona Fire Districts Association",
+      color: "#3076bc",
+      lat: 35.163604,
+      lng: -114.571966,
+      url: "https://azfiredistricts.org/conferences/"
     },
     "5": {
-      name: "Country Roads Fire Conference",
+      name: "TMA Tri Mutual Aid Omaha NE",
       color: "#f99c1c",
-      lat: 38.994,
-      lng: -80.265
+      lat: 41.352189,
+      lng: -96.095374,
+      url: "https://tmafireandems.org/class-schedule-tma-training-day.html"
     },
     "6": {
-      name: "Utah Fire Chiefs Conference",
-      color: "#3076bc",
-      url: "https://usfca.wildapricot.org/event-6431355",
-      lat: 37.077,
-      lng: -113.583
+      name: "Country Roads Fire Conference",
+      color: "#f99c1c",
+      lat: 38.993738,
+      lng: -80.26553
     },
     "7": {
-      name: "Utah Fire  Rescue Academy Winter Fire School",
+      name: "Utah Fire Chiefs Conference",
       color: "#3076bc",
-      url: "https://www.uvu.edu/ufra/training/winterfireschool.html",
-      lat: 37.077,
-      lng: -113.583
+      lat: 37.07722,
+      lng: -113.582615,
+      url: "https://usfca.wildapricot.org/event-6431355"
     },
     "8": {
-      name: "OSFA Volunteer Caucus",
-      color: "#f99c1c",
-      url: "https://osfa.info/events/eYXmVFjuIwrP4iJ6itxe",
-      lat: 36.113,
-      lng: -97.062
+      name: "Utah Fire Rescue Academy Winter Fire School",
+      color: "#3076bc",
+      lat: 37.07722,
+      lng: -113.582615,
+      url: "https://www.uvu.edu/ufra/training/winterfireschool.html"
     },
     "9": {
-      name: "Southwest Fire Conference",
-      color: "#f99c1c",
-      url: "https://southwestfireconference.com/2026",
-      lat: 31.797,
-      lng: -106.397
-    },
-    "10": {
       name: "OSFA Volunteer Caucus",
       color: "#f99c1c",
-      url: "https://osfa.info/events/eYXmVFjuIwrP4iJ6itxe",
-      lat: 36.113,
-      lng: -97.062
+      lat: 36.113089,
+      lng: -97.072088,
+      url: "https://osfa.info/events/eYXmVFjuIwrP4iJ6itxe"
+    },
+    "10": {
+      name: "Southwest Fire Conference",
+      color: "#f99c1c",
+      lat: 31.797074,
+      lng: -106.3971,
+      url: "https://southwestfireconference.com/2026"
     },
     "11": {
-      name: "IAIL IAAI Joint Chapter Training Conference",
+      name: "OSFA Volunteer Caucus",
       color: "#f99c1c",
-      url: "https://il-iaai.com/",
-      lat: 41.459,
-      lng: -90.613
+      lat: 36.113089,
+      lng: -97.072088,
+      url: "https://osfa.info/events/eYXmVFjuIwrP4iJ6itxe"
     },
     "12": {
-      name: "SAFE-D Annual Conference",
+      name: "IAIL IAAI Joint Chapter Training Conference",
       color: "#f99c1c",
-      url: "https://www.safe-d.org/conference/",
-      lat: 29.421,
-      lng: -98.487
+      lat: 41.459149,
+      lng: -90.613571,
+      url: "https://il-iaai.com/"
     },
     "13": {
-      name: "Long Live the Engine Fire Nuggets",
-      color: "#3076bc",
-      url: "https://www.firenuggets.com/classes/long-live-the-engine",
-      lat: 34.012,
-      lng: -118.494
+      name: "SAFE-D Annual Conference",
+      color: "#f99c1c",
+      lat: 29.420407,
+      lng: -98.483673,
+      url: "https://www.safe-d.org/conference/"
     },
     "14": {
-      name: "Long Island Metro FireEMS Expo",
+      name: "Long Live the Engine Fire Nuggets",
       color: "#3076bc",
-      url: "https://www.nysfirechiefs.com/liexpo",
-      lat: 40.723,
-      lng: -73.59
+      lat: 34.011895,
+      lng: -118.494107,
+      url: "https://www.firenuggets.com/classes/long-live-the-engine"
     },
     "15": {
-      name: "Iowa Fire School",
+      name: "Long Island Metro FireEMS Expo",
       color: "#3076bc",
-      url: "https://dps.iowa.gov/media/2825/download?inline",
-      lat: 41.654,
-      lng: -93.49
+      lat: 40.723278,
+      lng: -73.590653,
+      url: "https://www.nysfirechiefs.com/liexpo"
     },
     "16": {
-      name: "Florida Fire  EMS Conference",
+      name: "Iowa Fire School",
       color: "#3076bc",
-      url: "https://flfireems.com/",
-      lat: 28.515,
-      lng: -81.209
+      lat: 41.655504,
+      lng: -93.490367,
+      url: "https://dps.iowa.gov/media/2825/download?inline"
     },
     "17": {
       name: "MFSCA",
       color: "#f99c1c",
-      url: "https://www.msfca.org/2026-lda-alexandria",
-      lat: 45.922,
-      lng: -95.408
+      lat: 45.921678,
+      lng: -95.408189,
+      url: "https://www.msfca.org/2026-lda-alexandria"
     },
     "18": {
       name: "IRINFO Conference",
       color: "#f99c1c",
-      url: "https://irinfoconference.com/irinfo-conference-general-information/",
-      lat: 28.375,
-      lng: -81.512
+      lat: 28.375279,
+      lng: -81.511912,
+      url: "https://irinfoconference.com/irinfo-conference-general-information/"
     },
     "19": {
       name: "Alaska Fire Chiefs Conference",
       color: "#f99c1c",
-      url: "https://www.alaskafirechiefs.org/events",
-      lat: 58.301,
-      lng: -134.406
+      lat: 58.301235,
+      lng: -134.406299,
+      url: "https://www.alaskafirechiefs.org/events"
     },
     "20": {
       name: "Texas Association of Fire Educators TAFE",
       color: "#3076bc",
-      url: "https://www.txafe.com/",
-      lat: 27.8,
-      lng: -97.392
+      lat: 27.800425,
+      lng: -97.39222,
+      url: "https://www.txafe.com/"
     },
     "21": {
       name: "OTA Winter Conference and Trade Show",
       color: "#3076bc",
-      url: "https://www.ohiotownships.org/events/2026-ota-trade-show-",
-      lat: 39.971,
-      lng: -83.001
+      lat: 39.971505,
+      lng: -83.000796,
+      url: "https://www.ohiotownships.org/events/2026-ota-trade-show-"
     },
     "22": {
       name: "Les Lukert Conference",
       color: "#3076bc",
-      url: "https://rfdash.org/rf-dash-training-les-lukert/",
-      lat: 40.672,
-      lng: -99.087
+      lat: 40.672082,
+      lng: -99.087003,
+      url: "https://rfdash.org/rf-dash-training-les-lukert/"
     },
     "23": {
       name: "Missouri Winter Fire School",
       color: "#3076bc",
-      url: "https://extension.missouri.edu/programs/mu-fire-and-rescue-training-institute/annual-events",
-      lat: 38.918,
-      lng: -92.29
+      lat: 38.918066,
+      lng: -92.290212,
+      url: "https://extension.missouri.edu/programs/mu-fire-and-rescue-training-institute/annual-events"
     },
     "24": {
       name: "First In Fire Conference",
       color: "#3076bc",
-      url: "https://theasffa.org/event/first-in-home-town-hero-conference/",
-      lat: 34.748,
-      lng: -92.274
+      lat: 34.748247,
+      lng: -92.273621,
+      url: "https://theasffa.org/event/first-in-home-town-hero-conference/"
     },
     "25": {
-      name: "Mid-Winter Chiefs Conference AL Alabama Fire Service Professional DevelopmentConference ",
+      name: "Mid-Winter Chiefs Conference AL Alabama Fire Service Professional DevelopmentConference",
       color: "#3076bc",
-      url: "https://www.alfirechiefs.com/index.php?option=com_jevents&task=icalrepeat.detail&evid=12&Itemid=115&year=2026&month=02&day=09&title=2026-mid-winter-conference&uid=e3ea5a28ff27e7ed760657df5ed36691",
-      lat: 33.38,
-      lng: -86.808
+      lat: 33.379735,
+      lng: -86.807702,
+      url: "https://www.alfirechiefs.com/index.php?option=com_jevents&task=icalrepeat.detail&evid=12&Itemid=115&year=2026&month=02&day=09&title=2026-mid-winter-conference&uid=e3ea5a28ff27e7ed760657df5ed36691"
     },
     "26": {
       name: "Bearers of the Oath Annual Conference",
       color: "#3076bc",
-      url: "https://www.bearersoftheoath.org/",
-      lat: 34.499,
-      lng: -84.952
+      lat: 34.498614,
+      lng: -84.952221,
+      url: "https://www.bearersoftheoath.org/"
     },
     "27": {
       name: "District 8 Training Seminar",
       color: "#f99c1c",
-      url: "https://www.midstateseminar.org/",
-      lat: 42.36,
-      lng: -71.784
+      lat: 42.360258,
+      lng: -71.783838,
+      url: "https://www.midstateseminar.org/"
     },
     "28": {
       name: "CFDIA Seminar Series",
       color: "#3076bc",
-      url: "https://www.facebook.com/events/ct-state-middlesex/cfdia-seminar-series-featuring-chief-steve-shaffer-boston-fire/1185225986948794/",
-      lat: 41.539,
-      lng: -72.612
+      lat: 41.538811,
+      lng: -72.611309,
+      url: "https://www.facebook.com/events/ct-state-middlesex/cfdia-seminar-series-featuring-chief-steve-shaffer-boston-fire/1185225986948794/"
     },
     "29": {
       name: "Southern Idaho Fire Academy",
       color: "#3076bc",
-      url: "https://cte.idaho.gov/event/southern-idaho-fire-academy/",
-      lat: 42.596,
-      lng: -113.785
+      lat: 42.596606,
+      lng: -113.785381,
+      url: "https://cte.idaho.gov/event/southern-idaho-fire-academy/"
     },
     "30": {
       name: "Annual Mid Winter Fire School",
       color: "#f99c1c",
-      url: "https://www.cccneb.edu/fireschool?fbclid=IwY2xjawNkpR9leHRuA2FlbQIxMABicmlkETExNjFZY0pCY3NFVlZuQ2pXAR4C-peE0GbB1jPhrUS5LazbLF4GscDetlb7gpRyd5dYsnC7zSe_POR1C9EdBg_aem_O6TOWLo0XzEXOtwmrhpZTQ",
-      lat: 40.448,
-      lng: -99.373
+      lat: 40.447424,
+      lng: -99.373097,
+      url: "https://www.cccneb.edu/fireschool?fbclid=IwY2xjawNkpR9leHRuA2FlbQIxMABicmlkETExNjFZY0pCY3NFVlZuQ2pXAR4C-peE0GbB1jPhrUS5LazbLF4GscDetlb7gpRyd5dYsnC7zSe_POR1C9EdBg_aem_O6TOWLo0XzEXOtwmrhpZTQ"
     },
     "31": {
       name: "VA Fire Rescue Conference",
       color: "#3076bc",
-      url: "https://vfca.us/virginia-fire-rescue-conference/",
-      lat: 36.846,
-      lng: -75.987
+      lat: 36.846169,
+      lng: -75.987276,
+      url: "https://vfca.us/virginia-fire-rescue-conference/"
     },
     "32": {
       name: "MABAS-Illinois Conference",
       color: "#f99c1c",
-      url: "https://www.mabas-il.org/calendar/https-www-mabas-il-org-wp-content-uploads-2024-11-agenda-2025-summit-final-015-002-docx-pdf-2/",
-      lat: 40.509,
-      lng: -88.987
+      lat: 40.508652,
+      lng: -88.986342,
+      url: "https://www.mabas-il.org/calendar/https-www-mabas-il-org-wp-content-uploads-2024-11-agenda-2025-summit-final-015-002-docx-pdf-2/"
     },
     "33": {
       name: "Dinges Grant Program",
       color: "#f99c1c",
-      lat: 33.086,
-      lng: -96.592
+      lat: 33.086279,
+      lng: -96.591366
     },
     "34": {
       name: "Oregon Logging Conference",
       color: "#3076bc",
-      url: "https://oregonloggingconference.com/",
-      lat: 44.044,
-      lng: -123.105
+      lat: 44.044351,
+      lng: -123.106946,
+      url: "https://oregonloggingconference.com/"
     },
     "35": {
       name: "Green River Firefighters Association, Bryant Stiles Officers School",
       color: "#f99c1c",
-      url: "https://www.sfrtarea3.org/2025BSOS/schedule.pdf",
-      lat: 37.775,
-      lng: -87.117
+      lat: 37.775205,
+      lng: -87.116771,
+      url: "https://www.sfrtarea3.org/2025BSOS/schedule.pdf"
     },
     "36": {
       name: "Wisconsin Emergency Instructors Conference",
       color: "#f99c1c",
-      url: "https://www.wsesi.org/conference",
-      lat: 44.244,
-      lng: -88.512
+      lat: 44.245314,
+      lng: -88.511514,
+      url: "https://www.wsesi.org/conference"
     },
     "37": {
       name: "Low Country Fire Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/CharlestonMetroFOOLS",
-      lat: 33.044,
-      lng: -80.15
+      lat: 33.044773,
+      lng: -80.1514,
+      url: "https://www.facebook.com/CharlestonMetroFOOLS"
     },
     "38": {
       name: "Central PA Fire Conference",
       color: "#f99c1c",
-      url: "https://www.eventbrite.com/e/central-pa-fire-conference-2026-registration-1975072991485",
-      lat: 40.594,
-      lng: -77.561
+      lat: 40.594144,
+      lng: -77.56105,
+      url: "https://www.eventbrite.com/e/central-pa-fire-conference-2026-registration-1975072991485"
     },
     "39": {
-      name: "Mahnomen Fire  Rescue Seminar",
+      name: "Mahnomen Fire Rescue Seminar",
       color: "#f99c1c",
-      url: "https://www.minnesota.edu/sites/default/files/2025-10/Flyer Mahnomen 2026.pdf",
-      lat: 47.308,
-      lng: -95.962
+      lat: 47.308277,
+      lng: -95.962387,
+      url: "https://www.minnesota.edu/sites/default/files/2025-10/Flyer Mahnomen 2026.pdf"
     },
     "40": {
       name: "CTEX Conference",
       color: "#f99c1c",
-      url: "https://www.facebook.com/share/p/19ZLAtofsU/",
-      lat: 33.8,
-      lng: -116.419
+      lat: 33.800052,
+      lng: -116.417266,
+      url: "https://www.facebook.com/share/p/19ZLAtofsU/"
     },
     "41": {
       name: "FCAM Conference - Fire Chiefs Association of Massachusetts",
       color: "#f99c1c",
-      url: "https://fcam.org/events/fcam2026/",
-      lat: 42.264,
-      lng: -71.799
+      lat: 42.264313,
+      lng: -71.798546,
+      url: "https://fcam.org/events/fcam2026/"
     },
     "42": {
       name: "Missouri Fire Chiefs Conference",
       color: "#f99c1c",
-      url: "https://www.mochiefs.org/events.asp",
-      lat: 36.532,
-      lng: -93.249
+      lat: 36.542919,
+      lng: -93.250006,
+      url: "https://www.mochiefs.org/events.asp"
     },
     "43": {
       name: "State Fire School North Dakota Firefighters Association",
       color: "#f99c1c",
-      url: "https://firefightersnd.my.canva.site/nd-statefireschool",
-      lat: 48.233,
-      lng: -101.262
+      lat: 48.235613,
+      lng: -101.261923,
+      url: "https://firefightersnd.my.canva.site/nd-statefireschool"
     },
     "44": {
       name: "SCAFFA Fire School",
       color: "#3076bc",
-      url: "https://www.scaffa.org/",
-      lat: 39.052,
-      lng: -95.668
+      lat: 39.051201,
+      lng: -95.668004,
+      url: "https://www.scaffa.org/"
     },
     "45": {
       name: "Orlando Fire Conference",
       color: "#3076bc",
-      url: "https://orlandofireconference.com/",
-      lat: 28.943,
-      lng: -80.912
+      lat: 28.942542,
+      lng: -80.912266,
+      url: "https://orlandofireconference.com/"
     },
     "46": {
       name: "Wisconsin State Fire Chiefs Association Winter In-Service Conference",
       color: "#3076bc",
-      url: "https://wsfca.starchapter.com/meetinginfo.php?id=47&ts=1761936184",
-      lat: 43.165,
-      lng: -89.27
+      lat: 43.165482,
+      lng: -89.269945,
+      url: "https://wsfca.starchapter.com/meetinginfo.php?id=47&ts=1761936184"
     },
     "47": {
       name: "Tri-State Mutual Aid Training and Leadership Conference TSMAA",
       color: "#3076bc",
-      url: "https://www.tristatemutualaid.org/_files/ugd/d90b45_8da0c9f98e384a33b8b23ebfeefaf5cc.pdf",
-      lat: 35.046,
-      lng: -85.301
+      lat: 35.045851,
+      lng: -85.295307,
+      url: "https://www.tristatemutualaid.org/_files/ugd/d90b45_8da0c9f98e384a33b8b23ebfeefaf5cc.pdf"
     },
     "48": {
       name: "IAFPD Winter Conference",
       color: "#3076bc",
-      url: "https://www.iafpd.org/iafpd-winter-conference.html",
-      lat: 38.581,
-      lng: -89.932
+      lat: 38.580992,
+      lng: -89.931612,
+      url: "https://www.iafpd.org/iafpd-winter-conference.html"
     },
     "49": {
       name: "Training Days",
       color: "#f99c1c",
-      lat: 36.059,
-      lng: -79.826
+      lat: 36.059608,
+      lng: -79.824983
     },
     "50": {
       name: "LIFT Conference",
       color: "#f99c1c",
-      url: "https://laffmembers.com/LIFT",
-      lat: 30.344,
-      lng: -91.152
+      lat: 30.34668,
+      lng: -91.15096,
+      url: "https://laffmembers.com/LIFT"
     },
     "51": {
       name: "Disaster Expo - Miami Beach Florida",
       color: "#f99c1c",
-      url: "https://www.disasterexpomiami.com/",
-      lat: 25.794,
-      lng: -80.135
+      lat: 25.794905,
+      lng: -80.13327,
+      url: "https://www.disasterexpomiami.com/"
     },
     "52": {
       name: "FETA Equipment Expo",
       color: "#3076bc",
-      url: "https://www.facebook.com/photo/?fbid=122146731836721724&set=pcb.122146731860721724",
-      lat: 30.369,
-      lng: -91.159
+      lat: 30.367973,
+      lng: -91.159896,
+      url: "https://www.facebook.com/photo/?fbid=122146731836721724&set=pcb.122146731860721724"
     },
     "53": {
       name: "Northwest Iowa Regional Fire School",
       color: "#3076bc",
-      url: "https://www.nwiowafireschool.org/",
-      lat: 42.393,
-      lng: -96.355
+      lat: 42.394083,
+      lng: -96.353762,
+      url: "https://www.nwiowafireschool.org/"
     },
     "54": {
-      name: "Craft  Culture Firefighters Conference",
+      name: "Craft Culture Firefighters Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/p/Craft-and-Culture-100081600415157/",
-      lat: 41.688,
-      lng: -91.495
+      lat: 41.688352,
+      lng: -91.496026,
+      url: "https://www.facebook.com/p/Craft-and-Culture-100081600415157/"
     },
     "55": {
-      name: "Monroeville Fire  EMS Show",
+      name: "Monroeville Fire EMS Show",
       color: "#3076bc",
-      url: "https://www.gratzieventures.com/monroeville-fire-ems-show",
-      lat: 40.433,
-      lng: -79.791
+      lat: 40.432676,
+      lng: -79.791166,
+      url: "https://www.gratzieventures.com/monroeville-fire-ems-show"
     },
     "56": {
       name: "March Mayhem Fire Conference",
       color: "#f99c1c",
-      url: "https://www.marchmayhemfireconference.com/events/i5drgdz0ietjwfhyonhwojsoyq5cbm",
-      lat: 43.601,
-      lng: -116.196
+      lat: 43.602662,
+      lng: -116.196821,
+      url: "https://www.marchmayhemfireconference.com/events/i5drgdz0ietjwfhyonhwojsoyq5cbm"
     },
     "57": {
       name: "NWSA",
       color: "#f99c1c",
-      url: "https://nwsa.us/news/annual-conference/",
-      lat: 39.498,
-      lng: -119.8
+      lat: 39.497687,
+      lng: -119.801139,
+      url: "https://nwsa.us/news/annual-conference/"
     },
     "58": {
       name: "WFCA IGNITE Symposium",
       color: "#3076bc",
-      url: "https://wfca.com/ignite-fire-conference/",
-      lat: 36.157,
-      lng: -115.335
+      lat: 36.155579,
+      lng: -115.33201,
+      url: "https://wfca.com/ignite-fire-conference/"
     },
     "59": {
       name: "Northeastern Fire Summit",
       color: "#f99c1c",
-      url: "https://www.facebook.com/events/1412303877217302/?post_id=1425072295940460&acontext=%7B%22event_action_history%22%3A%5B%7B%22mechanism%22%3A%22footer_attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-      lat: 43.315,
-      lng: -70.581
+      lat: 43.315103,
+      lng: -70.580761,
+      url: "https://www.facebook.com/events/1412303877217302/?post_id=1425072295940460&acontext=%7B%22event_action_history%22%3A%5B%7B%22mechanism%22%3A%22footer_attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
     },
     "60": {
       name: "Wisconsin Firefighters Convention",
       color: "#f99c1c",
-      url: "https://www.wistateff.org/2026-wsfa-convention-information",
-      lat: 44.518,
-      lng: -88.011
+      lat: 44.517578,
+      lng: -88.010589,
+      url: "https://www.wistateff.org/2026-wsfa-convention-information"
     },
     "61": {
-      name: "Moorhead Fire School Minnesota State ",
+      name: "Moorhead Fire School Minnesota State",
       color: "#f99c1c",
-      url: "https://www.minnesota.edu/workforce-development-solutions/fire-ems-trainings",
-      lat: 46.849,
-      lng: -96.75
+      lat: 46.848948,
+      lng: -96.749853,
+      url: "https://www.minnesota.edu/workforce-development-solutions/fire-ems-trainings"
     },
     "62": {
       name: "Northwest Ohio Volunteer Firemans Association NOVFA Fire School",
       color: "#3076bc",
-      url: "https://www.novfafireschool.org/",
-      lat: 41.587,
-      lng: -83.575
+      lat: 41.583653,
+      lng: -83.57225,
+      url: "https://www.novfafireschool.org/"
     },
     "63": {
       name: "AWIMA Arizona Wildfire and Incident Management Academy",
       color: "#f99c1c",
-      url: "https://www.azwildfireacademy.org/",
-      lat: 34.617,
-      lng: -112.45
+      lat: 34.616972,
+      lng: -112.450352,
+      url: "https://www.azwildfireacademy.org/"
     },
     "64": {
       name: "Duke City Fire Conference",
       color: "#f99c1c",
-      url: "https://www.nfftf.org/event-details-registration/duke-city-fire-conference",
-      lat: 35.065,
-      lng: -106.759
+      lat: 35.064786,
+      lng: -106.758444,
+      url: "https://www.nfftf.org/event-details-registration/duke-city-fire-conference"
     },
     "65": {
       name: "Fresno Training Symposium",
       color: "#3076bc",
-      url: "https://www.caltraining.org/symposium",
-      lat: 36.733,
-      lng: -119.784
+      lat: 36.732669,
+      lng: -119.78418,
+      url: "https://www.caltraining.org/symposium"
     },
     "66": {
       name: "Fire in the Sky",
       color: "#3076bc",
-      url: "https://aircoalition.org/events/fire-in-the-sky-colorado-springs-march-2026/",
-      lat: 39.027,
-      lng: -104.818
+      lat: 39.024177,
+      lng: -104.839321,
+      url: "https://aircoalition.org/events/fire-in-the-sky-colorado-springs-march-2026/"
     },
     "67": {
       name: "Key City Fire Conference",
       color: "#3076bc",
-      url: "https://www.keycityfireconference.org/",
-      lat: 39.38,
-      lng: -77.406
+      lat: 39.378665,
+      lng: -77.405473,
+      url: "https://www.keycityfireconference.org/"
     },
     "68": {
       name: "Blackhawk Firefighters Association FireEMS Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/share/p/1RRjzAcBkC/",
-      lat: 42.126,
-      lng: -89.26
+      lat: 42.12625,
+      lng: -89.259713,
+      url: "https://www.facebook.com/share/p/1RRjzAcBkC/"
     },
     "69": {
       name: "MSFCA Duluth Leadership Development Academy",
       color: "#3076bc",
-      url: "https://www.msfca.org/2026-lda-duluth",
-      lat: 46.781,
-      lng: -92.099
+      lat: 46.781505,
+      lng: -92.097954,
+      url: "https://www.msfca.org/2026-lda-duluth"
     },
     "70": {
       name: "MAMA Fire Training Weekend",
       color: "#f99c1c",
-      url: "https://www.bucks.edu/publicsafety/firetrainingweekends/",
-      lat: 41.24,
-      lng: -76.733
+      lat: 41.240042,
+      lng: -76.732806,
+      url: "https://www.bucks.edu/publicsafety/firetrainingweekends/"
     },
     "71": {
       name: "SWEVT",
       color: "#f99c1c",
-      url: "https://taevt.org/swevt-training-conference/",
-      lat: 32.676,
-      lng: -97.328
+      lat: 32.676237,
+      lng: -97.328358,
+      url: "https://taevt.org/swevt-training-conference/"
     },
     "72": {
       name: "Wildland Urban Interface Conference",
       color: "#3076bc",
-      url: "https://wui2026.eventscribe.net/",
-      lat: 39.498,
-      lng: -119.8
+      lat: 39.497687,
+      lng: -119.801139,
+      url: "https://wui2026.eventscribe.net/"
     },
     "73": {
       name: "Maine Fire Chiefs Conference",
       color: "#f99c1c",
-      url: "https://www.mainefirechiefs.com/conference",
-      lat: 44.473,
-      lng: -70.855
+      lat: 44.468409,
+      lng: -70.877411,
+      url: "https://www.mainefirechiefs.com/conference"
     },
     "74": {
       name: "South Texas All Hazards Conference",
       color: "#f99c1c",
-      url: "https://www.facebook.com/stahctx/",
-      lat: 26.201,
-      lng: -98.259
+      lat: 26.200183,
+      lng: -98.25936,
+      url: "https://www.facebook.com/stahctx/"
     },
     "75": {
       name: "Canton Firefighters Local 1580 Annual Safety and Survival Seminar",
       color: "#f99c1c",
-      url: "https://www.eventbrite.com/e/2nd-annual-safety-and-survival-seminar-tickets-1344048849289",
-      lat: 42.15,
-      lng: -71.115
+      lat: 42.149439,
+      lng: -71.115569,
+      url: "https://www.eventbrite.com/e/2nd-annual-safety-and-survival-seminar-tickets-1344048849289"
     },
     "76": {
       name: "South Texas All Hazards Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/stahctx/",
-      lat: 26.201,
-      lng: -98.259
+      lat: 26.200183,
+      lng: -98.25936,
+      url: "https://www.facebook.com/stahctx/"
     },
     "77": {
-      name: "Northeastern Fire Education Conference and Trade Show ",
+      name: "Northeastern Fire Education Conference and Trade Show",
       color: "#3076bc",
-      url: "https://www.oafc.on.ca/floor-plan",
-      lat: 45.347,
-      lng: -79.132
+      lat: 45.347274,
+      lng: -79.132075,
+      url: "https://www.oafc.on.ca/floor-plan"
     },
     "78": {
       name: "MN State FireEMSRescue School",
       color: "#3076bc",
-      url: "https://cr3mnscu-livesite.rschooltoday.com/clients/mnscu/uploads/cr_25e4b89c-418a-43bd-8b3a-d5aaa225ca7a_ebd7b0365f6f0ad9f3509fe0.pdf",
-      lat: 43.674,
-      lng: -93.001
+      lat: 43.676375,
+      lng: -93.000484,
+      url: "https://cr3mnscu-livesite.rschooltoday.com/clients/mnscu/uploads/cr_25e4b89c-418a-43bd-8b3a-d5aaa225ca7a_ebd7b0365f6f0ad9f3509fe0.pdf"
     },
     "79": {
       name: "Fair City Firemans Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/events/1399405351631105/?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22external_search_engine%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D",
-      lat: 44.361,
-      lng: -98.216
+      lat: 44.361294,
+      lng: -98.216022,
+      url: "https://www.facebook.com/events/1399405351631105/?acontext=%7B%22event_action_history%22%3A%5B%7B%22surface%22%3A%22external_search_engine%22%7D%2C%7B%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%5D%2C%22ref_notif_type%22%3Anull%7D"
     },
     "80": {
       name: "KSFFA Conference",
       color: "#3076bc",
-      url: "https://kansasstatefirefightersassociation.com/events/gove-fire-school-bfezm-gk52s",
-      lat: 39.175,
-      lng: -96.561
+      lat: 39.175392,
+      lng: -96.560653,
+      url: "https://kansasstatefirefightersassociation.com/events/gove-fire-school-bfezm-gk52s"
     },
     "81": {
       name: "Massachusetts Fire District 8 Conference",
       color: "#f99c1c",
-      url: "https://www.facebook.com/profile.php?id=61570942431784",
-      lat: 42.518,
-      lng: -71.751
+      lat: 42.518387,
+      lng: -71.751071,
+      url: "https://www.facebook.com/profile.php?id=61570942431784"
     },
     "82": {
       name: "FSANS Conference",
       color: "#3076bc",
-      lat: 45.081,
-      lng: -64.402
+      lat: 45.073897,
+      lng: -64.401886
     },
     "83": {
       name: "Texas Fire Chiefs Association Annual Conference",
       color: "#f99c1c",
-      url: "https://tfca.memberclicks.net/ac2026conference",
-      lat: 31.56,
-      lng: -97.129
+      lat: 31.559869,
+      lng: -97.129041,
+      url: "https://tfca.memberclicks.net/ac2026conference"
     },
     "84": {
-      name: "Hops  Halligans Canton Firefighters Local 1580 Annual Safety  Survival Conference",
+      name: "Hops Halligans Canton Firefighters Local 1580 Annual Safety Survival Conference",
       color: "#3076bc",
-      url: "https://www.eventbrite.com/e/nlffs-burn-foudnation-and-hops-halligans-present-less-than-ten-seconds-tickets-1979125259929",
-      lat: 41.352,
-      lng: -72.096
+      lat: 41.351749,
+      lng: -72.09634,
+      url: "https://www.eventbrite.com/e/nlffs-burn-foudnation-and-hops-halligans-present-less-than-ten-seconds-tickets-1979125259929"
     },
     "85": {
       name: "IDGA Wildfire Management Summit",
       color: "#f99c1c",
-      url: "https://eco-cdn.iqpc.com/eco/files/event_content/wildfire-technology-summit-2026-prospectusxTMqyAMHzuJNBCf3khXHHTVqnhrQzkQAxJn3qwJ2.pdf?_gl=1*9zrgga*_gcl_aw*R0NMLjE3NjE3ODU5NTkuQ2owS0NRanctci12QmhDLUFSSXNBR2dVTzJBb29sOWsxR05nbzJuYmhMWVd2VFFQN3BwZHZXSHBhTzNkZXF0SnRZWXdQZlNCbGRZSlFhTWFBallWRUFMd193Y0I.*_gcl_au*MjEwOTY0NzIyMC4xNzYxNzg1ODI5",
-      lat: 32.711,
-      lng: -117.231
+      lat: 32.70935,
+      lng: -117.232061,
+      url: "https://eco-cdn.iqpc.com/eco/files/event_content/wildfire-technology-summit-2026-prospectusxTMqyAMHzuJNBCf3khXHHTVqnhrQzkQAxJn3qwJ2.pdf?_gl=1*9zrgga*_gcl_aw*R0NMLjE3NjE3ODU5NTkuQ2owS0NRanctci12QmhDLUFSSXNBR2dVTzJBb29sOWsxR05nbzJuYmhMWVd2VFFQN3BwZHZXSHBhTzNkZXF0SnRZWXdQZlNCbGRZSlFhTWFBallWRUFMd193Y0I.*_gcl_au*MjEwOTY0NzIyMC4xNzYxNzg1ODI5"
     },
     "86": {
       name: "FDIC",
       color: "#3076bc",
-      url: "https://www.fdic.com/register",
-      lat: 39.765,
-      lng: -86.163
+      lat: 39.760101,
+      lng: -86.163888,
+      url: "https://www.fdic.com/register"
     },
     "87": {
       name: "Outside FDIC",
       color: "#3076bc",
-      url: "https://www.fdic.com/register",
-      lat: 39.76,
-      lng: -86.162
+      lat: 39.760101,
+      lng: -86.163888,
+      url: "https://www.fdic.com/register"
     },
     "88": {
       name: "FFAM Convention",
       color: "#3076bc",
-      url: "https://www.ffam.org/committees/convention/2026-convention/",
-      lat: 39.246,
-      lng: -94.422
+      lat: 39.245948,
+      lng: -94.421927,
+      url: "https://www.ffam.org/committees/convention/2026-convention/"
     },
     "89": {
       name: "Forest Training Days",
       color: "#3076bc",
-      url: "https://brushfire.com/forestvolunteerfd/foresttrainingdays2026/622282?fbclid=IwZnRzaAPP8QlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe0HMj5BuwqRtK6s4JTh6YWa2TSkCsQaEYI15pNIdlVyIvYGgKUQDktuXQYuU_aem_f5R0Wgr0QPePGhoPf_6QhQ",
-      lat: 37.356,
-      lng: -79.284
+      lat: 37.356195,
+      lng: -79.283659,
+      url: "https://brushfire.com/forestvolunteerfd/foresttrainingdays2026/622282?fbclid=IwZnRzaAPP8QlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe0HMj5BuwqRtK6s4JTh6YWa2TSkCsQaEYI15pNIdlVyIvYGgKUQDktuXQYuU_aem_f5R0Wgr0QPePGhoPf_6QhQ"
     },
     "90": {
       name: "Rushmore Fire Conference",
       color: "#3076bc",
-      url: "http://www.rushmorefireconference.com/",
-      lat: 44.075,
-      lng: -103.2
+      lat: 44.074618,
+      lng: -103.200135,
+      url: "http://www.rushmorefireconference.com/"
     },
     "91": {
       name: "IAAI Fire Investigator Conference",
       color: "#f99c1c",
-      url: "https://www.iaaiitc.com/",
-      lat: 38.628,
-      lng: -90.208
+      lat: 38.628719,
+      lng: -90.207588,
+      url: "https://www.iaaiitc.com/"
     },
     "92": {
       name: "North Dakota NoDak Defrost North Dakota Firefighters Association",
       color: "#f99c1c",
-      url: "https://www.facebook.com/p/NoDak-Defrost-HOT-Conference-61574191535815/",
-      lat: 46.898,
-      lng: -102.791
+      lat: 46.898029,
+      lng: -102.791602,
+      url: "https://www.facebook.com/p/NoDak-Defrost-HOT-Conference-61574191535815/"
     },
     "93": {
       name: "Louisiana Fire Chiefs Conference",
       color: "#3076bc",
-      url: "https://harborcenter.org/event/louisiana-fire-chiefs-conference/",
-      lat: 30.218,
-      lng: -89.772
+      lat: 30.217987,
+      lng: -89.771796,
+      url: "https://harborcenter.org/event/louisiana-fire-chiefs-conference/"
     },
     "94": {
       name: "Idaho Fire Chiefs Conference",
       color: "#3076bc",
-      url: "https://idahofirechiefs.org/event-6321622",
-      lat: 47.673,
-      lng: -116.783
+      lat: 47.6725,
+      lng: -116.784444,
+      url: "https://idahofirechiefs.org/event-6321622"
     },
     "95": {
       name: "Cody Fire School",
       color: "#3076bc",
-      lat: 44.526,
-      lng: -109.066
+      lat: 44.525521,
+      lng: -109.066284
     },
     "96": {
       name: "Panhandle Firefighters and Fire Marshals Association PFFMA Convention",
       color: "#3076bc",
-      lat: 35.194,
-      lng: -101.809
+      lat: 35.193757,
+      lng: -101.808735
     },
     "97": {
       name: "First-in Hometown Heroes Conference",
       color: "#3076bc",
-      lat: 34.693,
-      lng: -92.313
+      lat: 34.693536,
+      lng: -92.313992
     },
     "98": {
       name: "BCFTOA",
       color: "#3076bc",
-      url: "https://bcftoa.com/bcftoa-conference",
-      lat: 50.02,
-      lng: -125.267
+      lat: 50.019604,
+      lng: -125.267038,
+      url: "https://bcftoa.com/bcftoa-conference"
     },
     "99": {
       name: "OFCA Spring Conference",
       color: "#3cb54a",
-      url: "https://ofca.org/Annual-Conference",
-      lat: 43.874,
-      lng: -121.446
+      lat: 43.874007,
+      lng: -121.446487,
+      url: "https://ofca.org/Annual-Conference"
     },
     "100": {
       name: "NC Association of Fire Chiefs Mid-Winter Conference",
       color: "#3076bc",
-      url: "https://www.ncafc.com/mwc-2026",
-      lat: 35.365,
-      lng: -80.702
+      lat: 35.365323,
+      lng: -80.701516,
+      url: "https://www.ncafc.com/mwc-2026"
     },
     "101": {
       name: "MAFFC",
       color: "#3076bc",
-      url: "https://www.maffc.org/",
-      lat: 33.903,
-      lng: -84.589
+      lat: 33.904301,
+      lng: -84.591164,
+      url: "https://www.maffc.org/"
     },
     "102": {
       name: "Coastal Magnolia First Annual Training Summit",
       color: "#3cb54a",
-      url: "https://www.eventbrite.com/e/coastal-magnolia-first-annual-training-summit-tickets-1977518065768?aff=oddtdtcreator&fbclid=IwY2xjawPR5x1leHRuA2FlbQIxMABicmlkETFaR2Z5Z3kzQ2pNUFA0ak1wc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsvsgcl59V6nnHdyoKB_sgSDqxqHYoEpgdfBQVc8A3BjHoluLDTX68e2kmkp_aem_oykJpSR5cYwi6Fz1oZUamQ",
-      lat: 30.31,
-      lng: -89.328
+      lat: 30.309671,
+      lng: -89.328254,
+      url: "https://www.eventbrite.com/e/coastal-magnolia-first-annual-training-summit-tickets-1977518065768?aff=oddtdtcreator&fbclid=IwY2xjawPR5x1leHRuA2FlbQIxMABicmlkETFaR2Z5Z3kzQ2pNUFA0ak1wc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsvsgcl59V6nnHdyoKB_sgSDqxqHYoEpgdfBQVc8A3BjHoluLDTX68e2kmkp_aem_oykJpSR5cYwi6Fz1oZUamQ"
     },
     "103": {
       name: "Bay Area Fire Conference Fire Nuggets",
       color: "#3cb54a",
-      url: "https://www.firenuggets.com/classes/bay-area-fire-conference-2026",
-      lat: 37.677,
-      lng: -121.858
+      lat: 37.675796,
+      lng: -121.857404,
+      url: "https://www.firenuggets.com/classes/bay-area-fire-conference-2026"
     },
     "104": {
       name: "Washington State Firefighters Conference",
       color: "#3076bc",
-      url: "https://www.wsffa.org/ev_calendar_day.asp?date=5/14/2026&eventid=1",
-      lat: 47.427,
-      lng: -120.312
+      lat: 47.42673,
+      lng: -120.312507,
+      url: "https://www.wsffa.org/ev_calendar_day.asp?date=5/14/2026&eventid=1"
     },
     "105": {
       name: "Nebraska State Fire School",
       color: "#3076bc",
-      url: "https://www.nsvfa.org/nebraska-fire-school",
-      lat: 40.906,
-      lng: -98.329
+      lat: 40.905817,
+      lng: -98.331164,
+      url: "https://www.nsvfa.org/nebraska-fire-school"
     },
     "106": {
       name: "Lancaster County Firemens Association Annual FIRE EXPO",
       color: "#3076bc",
-      url: "https://www.lcfa.com/fire-expo/",
-      lat: 40.26,
-      lng: -76.882
+      lat: 40.273191,
+      lng: -76.886701,
+      url: "https://www.lcfa.com/fire-expo/"
     },
     "107": {
-      name: "Downeast Fire  EMS Conference",
+      name: "Downeast Fire EMS Conference",
       color: "#3076bc",
-      url: "https://www.downeastemsandfireconference.com/",
-      lat: 44.397,
-      lng: -68.225
+      lat: 44.397087,
+      lng: -68.225378,
+      url: "https://www.downeastemsandfireconference.com/"
     },
     "108": {
       name: "Washington Fire Chiefs",
       color: "#3076bc",
-      url: "https://www.washingtonfirechiefs.com/event/save-the-date-washington-fire-chiefs-conference/",
-      lat: 47.427,
-      lng: -120.312
+      lat: 47.42673,
+      lng: -120.312507,
+      url: "https://www.washingtonfirechiefs.com/event/save-the-date-washington-fire-chiefs-conference/"
     },
     "109": {
       name: "New Brunswick Annual Fire Chiefs NBAFC",
       color: "#3076bc",
-      url: "https://www.nbafc.ca/",
-      lat: 46.089,
-      lng: -64.777
+      lat: 46.088622,
+      lng: -64.776891,
+      url: "https://www.nbafc.ca/"
     },
     "110": {
       name: "Alberta Fire Chiefs Conference",
       color: "#3076bc",
-      url: "https://conference.afca.ca/",
-      lat: 52.23,
-      lng: -113.804
+      lat: 52.229628,
+      lng: -113.804232,
+      url: "https://conference.afca.ca/"
     },
     "111": {
       name: "Quebec Association of Fire Chiefs AGSICQ",
       color: "#3076bc",
-      url: "https://agsicq.ca/congres/congres-2026/",
-      lat: 47.835,
-      lng: -69.537
+      lat: 47.831244,
+      lng: -69.536019,
+      url: "https://agsicq.ca/congres/congres-2026/"
     },
     "112": {
       name: "Winnebago Chiefs Vendor Show",
       color: "#3076bc",
-      url: "https://www.facebook.com/groups/1347647338584191",
-      lat: 42.339,
-      lng: -89.044
+      lat: 42.339276,
+      lng: -89.04403,
+      url: "https://www.facebook.com/groups/1347647338584191"
     },
     "113": {
-      name: "Mississippi Firefighters Association  Mississippi Fire Chiefs Association MFFA  MFCA Summer Conference",
+      name: "Mississippi Firefighters Association Mississippi Fire Chiefs Association MFFA MFCA Summer Conference",
       color: "#3076bc",
-      url: "https://membershipmanager.mffa.com/vendor-event/89th-mississippi-firefighters-and-fire-chiefs-annual-summer-conference/register",
-      lat: 30.412,
-      lng: -88.891
+      lat: 30.412864,
+      lng: -88.890219,
+      url: "https://membershipmanager.mffa.com/vendor-event/89th-mississippi-firefighters-and-fire-chiefs-annual-summer-conference/register"
     },
     "114": {
       name: "Professional Firefighters of Arizona PFFA State Convention",
       color: "#3076bc",
-      url: "https://www.instagram.com/p/DHT1cTTSFkF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-      lat: 32.216,
-      lng: -111.05
+      lat: 32.216014,
+      lng: -111.050299,
+      url: "https://www.instagram.com/p/DHT1cTTSFkF/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
     },
     "115": {
-      name: "Smoky Mountain Weekend Fire  Rescue Expo",
+      name: "Smoky Mountain Weekend Fire Rescue Expo",
       color: "#3076bc",
-      url: "https://www.eventbrite.com/e/smoky-mountain-weekend-tickets-1984333413657?aff=oddtdtcreator#location",
-      lat: 35.709,
-      lng: -83.518
+      lat: 35.709089,
+      lng: -83.518848,
+      url: "https://www.eventbrite.com/e/smoky-mountain-weekend-tickets-1984333413657?aff=oddtdtcreator#location"
     },
     "116": {
       name: "Monadnock Fire Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/p/Monadnock-Fire-Conference-61572763447611/",
-      lat: 42.802,
-      lng: -72.167
+      lat: 42.80229,
+      lng: -72.16694,
+      url: "https://www.facebook.com/p/Monadnock-Fire-Conference-61572763447611/"
     },
     "117": {
       name: "INTERSCHUTZ",
       color: "#3076bc",
-      url: "https://www.interschutz.de/en/",
-      lat: 52.319,
-      lng: 9.805
+      lat: 52.326078,
+      lng: 9.798996,
+      url: "https://www.interschutz.de/en/"
     },
     "118": {
       name: "Southeastern Association of Fire Chiefs SEAFC and the Georgia Association of Fire Chiefs GAFC Conference",
       color: "#3076bc",
-      url: "https://www.cognitoforms.com/SEAFC1/_98thSEAFCGAFCLeadershipConferenceExhibitorRegistrationForm",
-      lat: 32.084,
-      lng: -81.085
+      lat: 32.083337,
+      lng: -81.085294,
+      url: "https://www.cognitoforms.com/SEAFC1/_98thSEAFCGAFCLeadershipConferenceExhibitorRegistrationForm"
     },
     "119": {
-      name: "Hops  Halligans Beantown to the Borough",
+      name: "Hops Halligans Beantown to the Borough",
       color: "#3076bc",
-      url: "https://www.facebook.com/61550537889721/posts/hh-beantown-to-the-boroughan-evening-of-brotherhood-and-brews-in-providence-with/122315637440017929/",
-      lat: 41.841,
-      lng: -71.41
+      lat: 41.84123,
+      lng: -71.409991,
+      url: "https://www.facebook.com/61550537889721/posts/hh-beantown-to-the-boroughan-evening-of-brotherhood-and-brews-in-providence-with/122315637440017929/"
     },
     "120": {
       name: "North Dakota Firefighters Association Annual Convention",
       color: "#3076bc",
-      url: "https://mayvillestate.edu/alumni-friends/events/nd-firefighters-association-convention-2026/",
-      lat: 47.505,
-      lng: -97.323
+      lat: 47.50393,
+      lng: -97.323788,
+      url: "https://mayvillestate.edu/alumni-friends/events/nd-firefighters-association-convention-2026/"
     },
     "121": {
       name: "Arkansas Fire Convention",
       color: "#3076bc",
-      url: "https://www.arkansasfireconvention.com/",
-      lat: 34.51,
-      lng: -93.05
+      lat: 34.509696,
+      lng: -93.050994,
+      url: "https://www.arkansasfireconvention.com/"
     },
     "122": {
       name: "FDIC Atlantic",
       color: "#3076bc",
-      url: "https://www.fdicatlantic.ca/",
-      lat: 45.089,
-      lng: -64.368
+      lat: 45.087411,
+      lng: -64.365568,
+      url: "https://www.fdicatlantic.ca/"
     },
     "123": {
       name: "Illinois Fire Service Institute IFSI Fire College",
       color: "#3076bc",
-      url: "https://www.fsi.illinois.edu/ifsi%20events/firecollege/#%21/index",
-      lat: 40.086,
-      lng: -88.245
+      lat: 40.086668,
+      lng: -88.243343,
+      url: "https://www.fsi.illinois.edu/ifsi%20events/firecollege/#%21/index"
     },
     "124": {
       name: "Missouri Association of Career Fire Protection Districts MACFPD Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/MOAFPD/",
-      lat: 38.206,
-      lng: -92.749
+      lat: 38.205622,
+      lng: -92.74884,
+      url: "https://www.facebook.com/MOAFPD/"
     },
     "125": {
       name: "BC Fire Expo",
       color: "#3076bc",
-      url: "https://fcabc.ca/bc-fire-expo/",
-      lat: 48.432,
-      lng: -123.36
+      lat: 48.431788,
+      lng: -123.360696,
+      url: "https://fcabc.ca/bc-fire-expo/"
     },
     "126": {
       name: "Metro Fire Chiefs Conference",
       color: "#f99c1c",
-      url: "https://metrofirechiefs.net/",
-      lat: 43.042,
-      lng: -87.907
+      lat: 43.041034,
+      lng: -87.909678,
+      url: "https://metrofirechiefs.net/"
     },
     "127": {
       name: "Heroes of the Heartland",
       color: "#3076bc",
-      url: "https://www.heartlandmedicaldirection.org/hith-conference1",
-      lat: 35.244,
-      lng: -97.479
+      lat: 35.243481,
+      lng: -97.478641,
+      url: "https://www.heartlandmedicaldirection.org/hith-conference1"
     },
     "128": {
-      name: "NYSAFC Annual Conference  FIRE Expo",
+      name: "NYSAFC Annual Conference FIRE Expo",
       color: "#3076bc",
-      url: "https://www.nysfirechiefs.com/fire2026",
-      lat: 43.044,
-      lng: -76.148
+      lat: 43.043533,
+      lng: -76.14798,
+      url: "https://www.nysfirechiefs.com/fire2026"
     },
     "129": {
       name: "Great Lakes HOT Fire Conf South East Michigan",
       color: "#3076bc",
-      url: "https://buildyourculture.regfox.com/great-lakes-hot-2026",
-      lat: 42.605,
-      lng: -83.252
+      lat: 42.60545,
+      lng: -83.251618,
+      url: "https://buildyourculture.regfox.com/great-lakes-hot-2026"
     },
     "130": {
       name: "Kentucky State Fire School",
       color: "#f99c1c",
-      lat: 38.049,
-      lng: -84.5
+      lat: 38.038909,
+      lng: -84.515266
     },
     "131": {
-      name: "Manitoba Association of Fire Chiefs Annual Conference  Trade Show",
+      name: "Manitoba Association of Fire Chiefs Annual Conference Trade Show",
       color: "#f99c1c",
-      url: "https://mafc.ca/conferences/",
-      lat: 49.522,
-      lng: -96.677
+      lat: 49.522299,
+      lng: -96.677369,
+      url: "https://mafc.ca/conferences/"
     },
     "132": {
       name: "Illinois Association of Fire Protection Districts IAFPD",
       color: "#3076bc",
-      url: "https://www.iafpd.org/annual-conference",
-      lat: 40.684,
-      lng: -89.59
+      lat: 40.683465,
+      lng: -89.590467,
+      url: "https://www.iafpd.org/annual-conference"
     },
     "133": {
       name: "South Dakota State Fire School",
       color: "#3076bc",
-      url: "https://www.sdfirefighters.org/",
-      lat: 44.901,
-      lng: -97.095
+      lat: 44.901114,
+      lng: -97.095302,
+      url: "https://www.sdfirefighters.org/"
     },
     "134": {
       name: "Fire-Rescue South Carolina",
       color: "#3076bc",
-      url: "https://scsfaevents.org/fire-rescue/",
-      lat: 33.706,
-      lng: -78.874
+      lat: 33.706413,
+      lng: -78.874146,
+      url: "https://scsfaevents.org/fire-rescue/"
     },
     "135": {
       name: "State Firefighters and Fire Marshals Association of Texas SFFMA Annual Training Conference and Convention",
       color: "#3076bc",
-      url: "https://www.sffmatx.org/2026trainingconference-1",
-      lat: 31.56,
-      lng: -97.129
+      lat: 31.560162,
+      lng: -97.12804,
+      url: "https://www.sffmatx.org/2026trainingconference-1"
     },
     "136": {
       name: "Alabama Association of Volunteer Fire Departments Annual Conference",
       color: "#f99c1c",
-      url: "https://www.aavfd.com/conference.htm",
-      lat: 34.721,
-      lng: -87.666
+      lat: 34.719288,
+      lng: -87.665092,
+      url: "https://www.aavfd.com/conference.htm"
     },
     "137": {
       name: "Montana Volunteer Firefighters Convention",
       color: "#3076bc",
-      url: "https://stevensvillefirefightersassociation.square.site/conference-details",
-      lat: 46.507,
-      lng: -114.085
+      lat: 46.507175,
+      lng: -114.084638,
+      url: "https://stevensvillefirefightersassociation.square.site/conference-details"
     },
     "138": {
       name: "IFIW International Fire Instructors Workshop",
       color: "#f99c1c",
-      url: "https://www.afac.com.au/public-resources/the-international-fire-instructors-workshop-2026",
-      lat: -33.769,
-      lng: 150.798
+      lat: -27.470453,
+      lng: 153.026034,
+      url: "https://www.afac.com.au/public-resources/the-international-fire-instructors-workshop-2026"
     },
     "139": {
       name: "Indiana Volunteer Firefighters Association IVFA Annual Convention",
       color: "#3076bc",
-      url: "https://ivfa.org/convention/",
-      lat: 38.742,
-      lng: -85.412
+      lat: 38.74339,
+      lng: -85.416863,
+      url: "https://ivfa.org/convention/"
     },
     "140": {
       name: "Oregon Volunteer Firefighters Association Annual Conference",
       color: "#3076bc",
-      url: "https://ovfa.org/conference/registration/",
-      lat: 45.047,
-      lng: -122.959
+      lat: 45.047633,
+      lng: -122.958902,
+      url: "https://ovfa.org/conference/registration/"
     },
     "141": {
       name: "International Hazardous Materials HazMat Response Teams Conference IAFC",
       color: "#f99c1c",
-      url: "https://hazmat2026.eventscribe.net/",
-      lat: 39.286,
-      lng: -76.621
+      lat: 39.285922,
+      lng: -76.621451,
+      url: "https://hazmat2026.eventscribe.net/"
     },
     "142": {
       name: "Central Acadia Firefighers Symposium",
       color: "#3076bc",
-      url: "https://www.eventbrite.com/e/central-acadiana-firefighter-symposuim-tickets-1987331995496?aff=oddtdtcreator&fbclid=IwY2xjawR0XtVleHRuA2FlbQIxMABicmlkETFZWkFkSjNpRmpjTlNEcUtJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHirDN2zQAWi0H2ukiB5zVQydS-YvcuGMQ4eht1U4tnvIGHvTsVqqzcJdk7Fk_aem_ewna0p2ThWcBMBkgwnozCQ",
-      lat: 30.146,
-      lng: -91.961
+      lat: 30.145978,
+      lng: -91.960983,
+      url: "https://www.eventbrite.com/e/central-acadiana-firefighter-symposuim-tickets-1987331995496?aff=oddtdtcreator&fbclid=IwY2xjawR0XtVleHRuA2FlbQIxMABicmlkETFZWkFkSjNpRmpjTlNEcUtJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHirDN2zQAWi0H2ukiB5zVQydS-YvcuGMQ4eht1U4tnvIGHvTsVqqzcJdk7Fk_aem_ewna0p2ThWcBMBkgwnozCQ"
     },
     "143": {
       name: "Southwest Virginia Firefighters Association Convention",
       color: "#3076bc",
-      url: "https://swvafirefighters.com/",
-      lat: 36.507,
-      lng: -82.566
+      lat: 36.506536,
+      lng: -82.567199,
+      url: "https://swvafirefighters.com/"
     },
     "144": {
       name: "West Virginia Fire Expo",
       color: "#3076bc",
-      url: "https://wvfireexpo.org/about",
-      lat: 38.307,
-      lng: -80.829
+      lat: 38.303825,
+      lng: -80.827917,
+      url: "https://wvfireexpo.org/about"
     },
     "145": {
       name: "Maryland State Firefighters Association MSFA Convention",
       color: "#f99c1c",
-      url: "https://convention.msfa.org/registration/exhibitors/",
-      lat: 38.368,
-      lng: -75.074
+      lat: 38.368173,
+      lng: -75.074262,
+      url: "https://convention.msfa.org/registration/exhibitors/"
     },
     "146": {
       name: "Mississippi Association of Public Fire Safety Educators",
       color: "#f99c1c",
-      lat: 30.395,
-      lng: -88.901
+      lat: 30.394967,
+      lng: -88.901043
     },
     "147": {
       name: "Suffolk County Fire District Managers Association SCFDMA Vendor Event",
       color: "#3076bc",
-      lat: 40.769,
-      lng: -73.309
+      lat: 40.769441,
+      lng: -73.309188
     },
     "148": {
       name: "2026 Wisconsin State Fire Chiefs Association WSFCA Conference",
       color: "#3076bc",
-      url: "https://wsfca.starchapter.com/meetinginfo.php?id=52&ts=1778789920",
-      lat: 43.041,
-      lng: -87.917
+      lat: 43.041347,
+      lng: -87.917284,
+      url: "https://wsfca.starchapter.com/meetinginfo.php?id=52&ts=1778789920"
     },
     "149": {
       name: "Missouri Association of Fire Protection Districts MAFPD",
       color: "#f99c1c",
-      url: "https://www.mafpd.org/conference",
-      lat: 38.128,
-      lng: -92.718
+      lat: 38.128392,
+      lng: -92.718413,
+      url: "https://www.mafpd.org/conference"
     },
     "150": {
       name: "Mississippi Municipal League",
       color: "#f99c1c",
-      url: "https://www.mmlonline.com/conferences/",
-      lat: 30.393,
-      lng: -88.975
+      lat: 30.393504,
+      lng: -88.974615,
+      url: "https://www.mmlonline.com/conferences/"
     },
     "151": {
       name: "Indiana Volunteer Firefighters Association District 12 Meeting",
       color: "#f99c1c",
-      lat: 39.86,
-      lng: -86.651
+      lat: 39.860653,
+      lng: -86.649239
     },
     "152": {
       name: "Florida Fire Chiefs Executive Development Conference",
       color: "#3076bc",
-      url: "https://www.ffca.org/edc#pricing",
-      lat: 26.954,
-      lng: -82.064
+      lat: 26.954325,
+      lng: -82.064342,
+      url: "https://www.ffca.org/edc#pricing"
     },
     "153": {
       name: "TEEX Industrial Vendor Show",
       color: "#3076bc",
-      url: "https://teex.org/wp-content/uploads/PROSPECTUS-Industrial-WEB.pdf",
-      lat: 30.581,
-      lng: -96.362
+      lat: 30.58058,
+      lng: -96.355066,
+      url: "https://teex.org/wp-content/uploads/PROSPECTUS-Industrial-WEB.pdf"
     },
     "154": {
       name: "The Fire Chiefs Summit",
       color: "#f99c1c",
-      url: "https://www.firechiefssummit.com/for-suppliers",
-      lat: 32.388,
-      lng: -110.964
+      lat: 32.386113,
+      lng: -110.956662,
+      url: "https://www.firechiefssummit.com/for-suppliers"
     },
     "155": {
       name: "Ohio Fire Chiefs Association OFCA Conference",
       color: "#3076bc",
-      url: "https://ohiofirechiefs.com/aws/OFCA/pt/sp/conference",
-      lat: 40.05,
-      lng: -82.912
+      lat: 40.04955,
+      lng: -82.911992,
+      url: "https://ohiofirechiefs.com/aws/OFCA/pt/sp/conference"
     },
     "156": {
-      name: "Arizona Fire Chiefs Association AFCA  Arizona Fire Districts Association AFDA Fire  EMS Leadership Conference  Expo",
+      name: "Arizona Fire Chiefs Association AFCA Arizona Fire Districts Association AFDA Fire EMS Leadership Conference Expo",
       color: "#f99c1c",
-      url: "https://na.eventscloud.com/website/92047/",
-      lat: 33.532,
-      lng: -112.264
+      lat: 33.531878,
+      lng: -112.262541,
+      url: "https://na.eventscloud.com/website/92047/"
     },
     "157": {
       name: "Atlantic Fire Leadership Conference",
       color: "#3076bc",
-      url: "https://www.mfca.ca/2026-atlantic-fire-leadership-conference-announced/",
-      lat: 45.273,
-      lng: -66.065
+      lat: 45.272805,
+      lng: -66.066006,
+      url: "https://www.mfca.ca/2026-atlantic-fire-leadership-conference-announced/"
     },
     "158": {
       name: "Maritime Fire Chiefs Association",
       color: "#3076bc",
-      url: "https://site.pheedloop.com/event/2026aflc/home",
-      lat: 45.273,
-      lng: -66.065
+      lat: 45.272742,
+      lng: -66.065291,
+      url: "https://site.pheedloop.com/event/2026aflc/home"
     },
     "159": {
       name: "TEEX Municipal Vendor Show",
       color: "#3076bc",
-      url: "https://teex.org/event/vendor-shows/",
-      lat: 30.606,
-      lng: -96.346
+      lat: 30.606009,
+      lng: -96.346232,
+      url: "https://teex.org/event/vendor-shows/"
     },
     "160": {
       name: "Firemanship Conference",
       color: "#3076bc",
-      url: "https://www.firemanshipconference.com/",
-      lat: 41.758,
-      lng: -88.315
+      lat: 41.757722,
+      lng: -88.314654,
+      url: "https://www.firemanshipconference.com/"
     },
     "161": {
       name: "Upper Peninsula Volunteer Firefighters Tournament",
       color: "#3076bc",
-      lat: 46.061,
-      lng: -88.629
+      lat: 46.064122,
+      lng: -88.631521
     },
     "162": {
       name: "Georgia Fire Safety Symposium",
       color: "#f99c1c",
-      lat: 33.057,
-      lng: -83.957
+      lat: 33.059259,
+      lng: -83.963545
     },
     "163": {
       name: "Air National Guard Fire Chiefs Association - Annual Senior Fire Officers Training Summit",
       color: "#f99c1c",
-      url: "https://members.arffwg.org/industryeventscalendar/Details/air-national-guard-fire-chiefs-association-annual-senior-fire-officers-training-summit-1593901?sourceTypeId=Website",
-      lat: 39.528,
-      lng: -119.814
+      lat: 39.529919,
+      lng: -119.814269,
+      url: "https://members.arffwg.org/industryeventscalendar/Details/air-national-guard-fire-chiefs-association-annual-senior-fire-officers-training-summit-1593901?sourceTypeId=Website"
     },
     "164": {
       name: "Cumberland Valley Volunteer Firefighters Association CVVFA Convention",
       color: "#f99c1c",
-      lat: 41.093,
-      lng: -79.111
+      lat: 39.984898,
+      lng: -75.169917
     },
     "165": {
       name: "Prairie Fire Conference Fire Nuggets",
       color: "#f99c1c",
-      url: "https://www.facebook.com/p/Prairie-Fire-Conference-61575397245289/",
-      lat: 46.83,
-      lng: -100.867
+      lat: 46.83062,
+      lng: -100.866828,
+      url: "https://www.facebook.com/p/Prairie-Fire-Conference-61575397245289/"
     },
     "166": {
       name: "Tennessee Fire Chiefs Association Annual Conference",
       color: "#3076bc",
-      url: "https://www.tnfirechiefs.com/conferences",
-      lat: 35.863,
-      lng: -86.449
+      lat: 35.863081,
+      lng: -86.448666,
+      url: "https://www.tnfirechiefs.com/conferences"
     },
     "167": {
       name: "Alabama Association of Fire Chiefs AAFC 2026 Annual Conference",
       color: "#3076bc",
-      url: "https://www.alfirechiefs.com/index.php?option=com_jevents&task=icalrepeat.detail&evid=13&Itemid=115&year=2026&month=08&day=02&title=2026-annual-conference-perdido-beach-resort&uid=25acb66d6e8fe38afcd919eaedacbdb2",
-      lat: 30.274,
-      lng: -87.561
+      lat: 30.273649,
+      lng: -87.561467,
+      url: "https://www.alfirechiefs.com/index.php?option=com_jevents&task=icalrepeat.detail&evid=13&Itemid=115&year=2026&month=08&day=02&title=2026-annual-conference-perdido-beach-resort&uid=25acb66d6e8fe38afcd919eaedacbdb2"
     },
     "168": {
       name: "Louisiana State Firemens Association LSFA Conference",
       color: "#3076bc",
-      url: "https://members.lsfa.net/events/121st-Annual-LSFA-Conference-Early-Registration-2115/details?fbclid=IwY2xjawSCxdxleHRuA2FlbQIxMQBicmlkETF2RlNVU0V5cWVCN0h0UnB5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqUCTK4bHoro4JstmnQuPnYLsGa51D9aPeBuHp1WAabdLtOPozAVBNuRB-Sx_aem_t3lETKikoI8NnvnRI4xe-A",
-      lat: 30.421,
-      lng: -91.136
+      lat: 30.421278,
+      lng: -91.136135,
+      url: "https://members.lsfa.net/events/121st-Annual-LSFA-Conference-Early-Registration-2115/details?fbclid=IwY2xjawSCxdxleHRuA2FlbQIxMQBicmlkETF2RlNVU0V5cWVCN0h0UnB5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqUCTK4bHoro4JstmnQuPnYLsGa51D9aPeBuHp1WAabdLtOPozAVBNuRB-Sx_aem_t3lETKikoI8NnvnRI4xe-A"
     },
     "169": {
       name: "West Virginia State Firemens Association WVSFA Convention",
       color: "#3cb54a",
-      url: "https://www.wvsfa.org/",
-      lat: 39.3,
-      lng: -77.842
+      lat: 39.299892,
+      lng: -77.84185,
+      url: "https://www.wvsfa.org/"
     },
     "170": {
       name: "Firefighters Association of the State of New York FASNY Annual Convention",
       color: "#3cb54a",
-      url: "https://fasnyconvention.com/",
-      lat: 42.263,
-      lng: -78.669
+      lat: 42.261948,
+      lng: -78.662626,
+      url: "https://fasnyconvention.com/"
     },
     "171": {
       name: "Indiana Fire Investigation Conference",
       color: "#3cb54a",
-      url: "https://iniaai.org/conference/",
-      lat: 39.763,
-      lng: -86.488
+      lat: 39.764656,
+      lng: -86.489867,
+      url: "https://iniaai.org/conference/"
     },
     "172": {
       name: "Fire-Rescue International FRI",
       color: "#3076bc",
-      url: "https://www.iafc.org/events/fri/fri26",
-      lat: 39.097,
-      lng: -94.588
+      lat: 39.098253,
+      lng: -94.587488,
+      url: "https://www.iafc.org/events/fri/fri26"
     },
     "173": {
       name: "Jimmy Ellis Training Weekend",
       color: "#3076bc",
-      url: "https://www.facebook.com/p/Jimmy-Ellis-Training-Weekend-61564709192019/",
-      lat: 40.684,
-      lng: -80.089
+      lat: 40.684558,
+      lng: -80.089772,
+      url: "https://www.facebook.com/p/Jimmy-Ellis-Training-Weekend-61564709192019/"
     },
     "174": {
       name: "SAFRE South Atlantic Fire Rescue Expo",
       color: "#3076bc",
-      url: "https://www.southatlanticfirerescueexpo.com/",
-      lat: 35.774,
-      lng: -78.641
+      lat: 35.773799,
+      lng: -78.641103,
+      url: "https://www.southatlanticfirerescueexpo.com/"
     },
     "175": {
       name: "Tri-State Mutual Aid Expo",
       color: "#3076bc",
-      url: "https://www.tristatemutualaid.org/",
-      lat: 35.16,
-      lng: -84.875
+      lat: 35.159518,
+      lng: -84.876611,
+      url: "https://www.tristatemutualaid.org/"
     },
     "176": {
       name: "Emergency The Ultimate First Responder Event",
       color: "#3cb54a",
-      lat: 37.907,
-      lng: -88.127
+      lat: 37.908657,
+      lng: -88.129202
     },
     "177": {
       name: "Derby City Fire Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/p/Derby-City-Fire-Conference-61579596745921/",
-      lat: 38.225,
-      lng: -85.576
+      lat: 38.224645,
+      lng: -85.576518,
+      url: "https://www.facebook.com/p/Derby-City-Fire-Conference-61579596745921/"
     },
     "178": {
       name: "New England Association of Fire Chiefs NEAFC Conference",
       color: "#3cb54a",
-      url: "https://www.newenglandfirechiefs.org/conference",
-      lat: 41.429,
-      lng: -72.114
+      lat: 41.431721,
+      lng: -72.110094,
+      url: "https://www.newenglandfirechiefs.org/conference"
     },
     "179": {
       name: "Dinges Fire Golf Outing",
       color: "#3cb54a",
-      lat: 41.715,
-      lng: -89.329
+      lat: 41.7142,
+      lng: -89.328706
     },
     "180": {
       name: "Kentucky Wildland Fire Conference",
       color: "#3cb54a",
-      lat: 38.052,
-      lng: -84.73
+      lat: 38.05149,
+      lng: -84.730506
     },
     "181": {
       name: "Arizona Fire School",
       color: "#3cb54a",
-      url: "https://azfiretraining.org/fire-school/",
-      lat: 33.42,
-      lng: -111.829
+      lat: 33.419494,
+      lng: -111.829801,
+      url: "https://azfiretraining.org/fire-school/"
     },
     "182": {
       name: "Indiana Fire and EMS Leadership Conference",
       color: "#3cb54a",
-      url: "https://indfirechiefs.org/page/EVENTS",
-      lat: 39.992,
-      lng: -85.92
+      lat: 39.992986,
+      lng: -85.920817,
+      url: "https://indfirechiefs.org/page/EVENTS"
     },
     "183": {
       name: "Black Sheep Fire Conference",
       color: "#f99c1c",
-      url: "https://www.eventbrite.com/e/4th-annual-black-sheep-fire-conference-tickets-1985340713518",
-      lat: 40.06,
-      lng: -82.404
+      lat: 40.058121,
+      lng: -82.401264,
+      url: "https://www.eventbrite.com/e/4th-annual-black-sheep-fire-conference-tickets-1985340713518"
     },
     "184": {
       name: "United Fire Firefighter of the Year Award Ceremony",
       color: "#3076bc",
-      lat: 33.419,
-      lng: -111.83
+      lat: 33.419494,
+      lng: -111.829801
     },
     "185": {
       name: "Labette Community College LCC Fire School",
       color: "#3076bc",
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSe8dRUV6Zy4qXpR3AGYKZGXw9FA-HtQxKE7672x9FlCqV-ndg/viewform",
-      lat: 37.339,
-      lng: -95.255
+      lat: 37.339099,
+      lng: -95.255304,
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSe8dRUV6Zy4qXpR3AGYKZGXw9FA-HtQxKE7672x9FlCqV-ndg/viewform"
     },
     "186": {
       name: "Northern H.E.A.T Conference",
       color: "#3cb54a",
-      lat: 56.234,
-      lng: -117.289
+      lat: 56.234167,
+      lng: -117.28878
     },
     "187": {
       name: "FireCon - Ontario Association of Fire Chiefs Conference",
       color: "#3076bc",
-      url: "https://www.oafc.on.ca/overview",
-      lat: 48.38,
-      lng: -89.304
+      lat: 48.379506,
+      lng: -89.305213,
+      url: "https://www.oafc.on.ca/overview"
     },
     "188": {
       name: "F.O.O.L.S. International Convention",
       color: "#3076bc",
-      url: "https://www.foolsinternational.com/convention-2023",
-      lat: 38.702,
-      lng: -90.448
+      lat: 38.702352,
+      lng: -90.447543,
+      url: "https://www.foolsinternational.com/convention-2023"
     },
     "189": {
       name: "Delaware Volunteer Firefighters Association DVFA Conference",
       color: "#3cb54a",
-      lat: 38.691,
-      lng: -75.075
+      lat: 38.69289,
+      lng: -75.074625
     },
     "190": {
       name: "North American Fire Training Directors NAFTD Annual Meeting",
       color: "#3cb54a",
-      url: "https://naftd.org/event-6563135",
-      lat: 30.443,
-      lng: -91.187
+      lat: 30.451468,
+      lng: -91.187147,
+      url: "https://naftd.org/event-6563135"
     },
     "191": {
-      name: "Fire Show West Conference  Expo",
+      name: "Fire Show West Conference Expo",
       color: "#3cb54a",
-      url: "https://www.fireshowswest.com/exhibitor-information",
-      lat: 39.523,
-      lng: -119.781
+      lat: 39.523041,
+      lng: -119.781223,
+      url: "https://www.fireshowswest.com/exhibitor-information"
     },
     "192": {
       name: "Virginia HazMat Conference",
       color: "#3076bc",
-      url: "https://www.virginiahazmat.org/annual-conference",
-      lat: 36.804,
-      lng: -76.19
+      lat: 36.803478,
+      lng: -76.19091,
+      url: "https://www.virginiahazmat.org/annual-conference"
     },
     "193": {
       name: "New Jersey Fire Expo",
       color: "#3076bc",
-      url: "https://www.njfireexpo.com/copy-of-vendor-info",
-      lat: 38.981,
-      lng: -74.817
+      lat: 38.981295,
+      lng: -74.816696,
+      url: "https://www.njfireexpo.com/copy-of-vendor-info"
     },
     "194": {
       name: "Fire-Rescue Canada Conference and Trade Show",
       color: "#3cb54a",
-      url: "https://docs.google.com/document/d/1wN23Pp26kkcXkNKhgcGKK9fLi2GTPUh-/edit",
-      lat: 49.28,
-      lng: -123.127
+      lat: 49.280153,
+      lng: -123.127064,
+      url: "https://docs.google.com/document/d/1wN23Pp26kkcXkNKhgcGKK9fLi2GTPUh-/edit"
     },
     "195": {
       name: "Michigan Firemens Memorial Festival",
       color: "#3cb54a",
-      url: "https://www.firemensmemorial.com/",
-      lat: 44.498,
-      lng: -84.593
+      lat: 44.49835,
+      lng: -84.591968,
+      url: "https://www.firemensmemorial.com/"
     },
     "196": {
       name: "Red River Fire Expo Redline",
       color: "#3076bc",
-      lat: 33.956,
-      lng: -96.414
+      lat: 33.956645,
+      lng: -96.414245
     },
     "197": {
       name: "Minnesota State Fire Department Association MSFDA Conference",
       color: "#3076bc",
-      url: "https://www.msfda.org/annual-conference",
-      lat: 46.59,
-      lng: -94.209
+      lat: 46.589768,
+      lng: -94.208701,
+      url: "https://www.msfda.org/annual-conference"
     },
     "198": {
       name: "Southside Virginia Volunteer Firefighters Association SVVFA Regional School Expo",
       color: "#3076bc",
-      lat: 36.727,
-      lng: -78.13
+      lat: 36.724862,
+      lng: -78.129477
     },
     "199": {
       name: "South Carolina State Association of Fire Chiefs SCSAFC - Annual Fire Leadership Conference",
       color: "#3076bc",
-      url: "https://scfirechiefs.com/fire-leadership-vendor/sponsor",
-      lat: 33.768,
-      lng: -78.777
+      lat: 33.766993,
+      lng: -78.7779,
+      url: "https://scfirechiefs.com/fire-leadership-vendor/sponsor"
     },
     "200": {
-      name: "Airport Rescue  Firefighting Working Group ARFFWG Annual Educational Symposium",
+      name: "Airport Rescue Firefighting Working Group ARFFWG Annual Educational Symposium",
       color: "#3076bc",
-      url: "https://members.arffwg.org/calendar/Details/2026-arffwg-annual-educational-sympsoium-1444303?sourceTypeId=Website",
-      lat: 35.043,
-      lng: -85.312
+      lat: 35.041717,
+      lng: -85.312935,
+      url: "https://members.arffwg.org/calendar/Details/2026-arffwg-annual-educational-sympsoium-1444303?sourceTypeId=Website"
     },
     "201": {
       name: "New Mexico Fire Service Conference",
       color: "#3cb54a",
-      lat: 33.354,
-      lng: -105.663
+      lat: 33.354066,
+      lng: -105.662742
     },
     "202": {
       name: "St. Clair Monroe County IL Chiefs Assoc Dealer Showcase",
       color: "#3cb54a",
-      url: "https://stclaircofirechiefs.org/2026-meetings.html",
-      lat: 38.646,
-      lng: -90.108
+      lat: 38.645599,
+      lng: -90.108314,
+      url: "https://stclaircofirechiefs.org/2026-meetings.html"
     },
     "203": {
       name: "Wisconsin Emergency Managers Association WEMA Conference",
       color: "#f99c1c",
-      url: "https://wema.mybigcommerce.com/",
-      lat: 44.526,
-      lng: -89.504
+      lat: 44.526153,
+      lng: -89.504632,
+      url: "https://wema.mybigcommerce.com/"
     },
     "204": {
-      name: "St. Clair  Monroe County Fire Chiefs Association and MABAS Division 32 Annual Dealer Showcase",
+      name: "St. Clair Monroe County Fire Chiefs Association and MABAS Division 32 Annual Dealer Showcase",
       color: "#3cb54a",
-      lat: 38.646,
-      lng: -90.108
+      lat: 38.645088,
+      lng: -90.107298
     },
     "205": {
       name: "That D.A.M. FOOLS Fire Conference",
       color: "#3cb54a",
-      url: "https://thedamfools.com/conference",
-      lat: 41.705,
-      lng: -93.588
+      lat: 41.705025,
+      lng: -93.587545,
+      url: "https://thedamfools.com/conference"
     },
     "206": {
       name: "Newfoundland and Labrador NL Association of Fire Service Convention",
       color: "#3cb54a",
-      url: "https://nlfireservices.com/convention-2026/",
-      lat: 47.558,
-      lng: -52.769
+      lat: 47.558211,
+      lng: -52.768951,
+      url: "https://nlfireservices.com/convention-2026/"
     },
     "207": {
       name: "MABAS Wisconsin Conference",
       color: "#f99c1c",
-      url: "https://mabas-wi.org/mabas-wi-conference-info.php",
-      lat: 44.526,
-      lng: -89.504
+      lat: 44.525909,
+      lng: -89.504431,
+      url: "https://mabas-wi.org/mabas-wi-conference-info.php"
     },
     "208": {
       name: "Tennessee Firemens Association Annual Conference",
       color: "#3cb54a",
-      url: "https://www.tnfiremen.com/training-annual-conference",
-      lat: 35.014,
-      lng: -85.706
+      lat: 35.012302,
+      lng: -85.704415,
+      url: "https://www.tnfiremen.com/training-annual-conference"
     },
     "209": {
       name: "Heart of the Lakes Fire Summit FireNuggets",
       color: "#3076bc",
-      url: "https://www.firenuggets.com/classes/heart-of-the-lakes-fire-summit",
-      lat: 45.843,
-      lng: -95.386
+      lat: 45.842345,
+      lng: -95.385692,
+      url: "https://www.firenuggets.com/classes/heart-of-the-lakes-fire-summit"
     },
     "210": {
-      name: "York County Chiefs Fall FireEMS School  Trade Show",
+      name: "York County Chiefs Fall FireEMS School Trade Show",
       color: "#3cb54a",
-      url: "https://www.yorkcountymaine.gov/rtc/fire-rescue",
-      lat: 40.016,
-      lng: -76.721
+      lat: 40.015915,
+      lng: -76.721149,
+      url: "https://www.yorkcountymaine.gov/rtc/fire-rescue"
     },
     "211": {
       name: "Georgia State Firefighters Association GSFA Georgia Fire Service Conference",
       color: "#3cb54a",
-      url: "https://www.gsffa.org/annual-conference",
-      lat: 33.479,
-      lng: -81.968
+      lat: 33.478625,
+      lng: -81.96703,
+      url: "https://www.gsffa.org/annual-conference"
     },
     "212": {
       name: "Fort Lauderdale Fire Training Expo",
       color: "#3076bc",
-      url: "https://www.fortlauderdalefireexpo.com/events/",
-      lat: 26.205,
-      lng: -80.139
+      lat: 26.205101,
+      lng: -80.13929,
+      url: "https://www.fortlauderdalefireexpo.com/events/"
     },
     "213": {
       name: "Arkansas Rural Fire Show",
       color: "#3cb54a",
-      lat: 35.086,
-      lng: -92.391
+      lat: 35.088292,
+      lng: -92.390002
     },
     "214": {
       name: "Mile High Fire Conference",
       color: "#3cb54a",
-      lat: 39.629,
-      lng: -104.901
+      lat: 39.628949,
+      lng: -104.900897
     },
     "215": {
       name: "The FDNY High-Rise Symposium",
       color: "#3cb54a",
-      lat: 40.715,
-      lng: -74.007
+      lat: 40.712775,
+      lng: -74.005973
     },
     "216": {
       name: "LAAFCA Los Angeles Area Fire Chiefs Assocation Desert Conference",
       color: "#3cb54a",
-      lat: 33.724,
-      lng: -116.339
+      lat: 33.717631,
+      lng: -116.340755
     },
     "217": {
       name: "Connecticut Fire Department Instructors Association CFDIA Annual Awards Dinner",
       color: "#3cb54a",
-      lat: 41.632,
-      lng: -72.64
+      lat: 41.631903,
+      lng: -72.639306
     },
     "218": {
       name: "Montana Fire Chiefs Conference",
       color: "#3cb54a",
-      lat: 46.59,
-      lng: -112.021
+      lat: 46.589145,
+      lng: -112.039106
     },
     "219": {
       name: "Montana Fire Service Convention",
       color: "#3cb54a",
-      lat: 45.954,
-      lng: -112.509
+      lat: 45.954369,
+      lng: -112.508929
     },
     "220": {
-      name: "New Mexico Fire  EMS Expo",
+      name: "New Mexico Fire EMS Expo",
       color: "#3076bc",
-      url: "https://nmemta.org/fire-and-ems-expo/",
-      lat: 34.056,
-      lng: -106.919
+      lat: 34.056193,
+      lng: -106.91768,
+      url: "https://nmemta.org/fire-and-ems-expo/"
     },
     "221": {
       name: "Illinois Fire Chiefs Association Conference",
       color: "#3cb54a",
-      lat: 40.694,
-      lng: -89.592
+      lat: 40.6939,
+      lng: -89.592257
     },
     "222": {
       name: "Wichita HOT Classes",
       color: "#3cb54a",
-      lat: 37.678,
-      lng: -97.275
+      lat: 37.67836,
+      lng: -97.275414
     },
     "223": {
       name: "Reading Fire Conference",
       color: "#3076bc",
-      url: "https://www.facebook.com/people/Reading-Fire-Conference/61577732687898/",
-      lat: 40.309,
-      lng: -75.925
+      lat: 40.30864,
+      lng: -75.924866,
+      url: "https://www.facebook.com/people/Reading-Fire-Conference/61577732687898/"
     },
     "224": {
       name: "IFCA Annual Conference",
       color: "#3cb54a",
-      lat: 40.692,
-      lng: -89.594
+      lat: 40.692291,
+      lng: -89.594179
     },
     "225": {
       name: "Michigan Association of Fire Chiefs MAFC Midwest Fire Expo",
       color: "#3076bc",
-      url: "https://www.michiefs.org/Expo",
-      lat: 42.487,
-      lng: -83.502
+      lat: 42.488688,
+      lng: -83.502748,
+      url: "https://www.michiefs.org/Expo"
     },
     "226": {
       name: "Small Town Jobtown Fire Conference",
       color: "#3076bc",
-      url: "https://www.eventbrite.com/e/small-town-jobtown-fire-conference-2026-tickets-1979169080999",
-      lat: 30.483,
-      lng: -90.455
+      lat: 30.482987,
+      lng: -90.455432,
+      url: "https://www.eventbrite.com/e/small-town-jobtown-fire-conference-2026-tickets-1979169080999"
     },
     "227": {
       name: "NJ Career Fire Chiefs Annual Leadership Conference",
       color: "#3cb54a",
-      lat: 40.418,
-      lng: -74.42
+      lat: 40.438555,
+      lng: -74.392598
     },
     "228": {
       name: "Alberta Fire Chiefs Training Conference",
       color: "#3076bc",
-      url: "https://www.abfiretraining.org/",
-      lat: 49.692,
-      lng: -112.811
+      lat: 49.692227,
+      lng: -112.810548,
+      url: "https://www.abfiretraining.org/"
     },
     "229": {
       name: "Minnesota State Fire Chiefs Association MSFCA 2026 Annual Conference",
       color: "#3076bc",
-      lat: 46.781,
-      lng: -92.099
+      lat: 46.781505,
+      lng: -92.097954
     },
     "230": {
       name: "2026 HOTZONE Conference",
       color: "#3cb54a",
-      lat: 29.68,
-      lng: -95.413
+      lat: 29.678722,
+      lng: -95.413336
     },
     "231": {
       name: "Pacific Northwest Fire Conference Fire Nuggets",
       color: "#3076bc",
-      url: "https://firenuggets.regfox.com/pnwfcvendors2026",
-      lat: 47.712,
-      lng: -122.571
+      lat: 47.712639,
+      lng: -122.570935,
+      url: "https://firenuggets.regfox.com/pnwfcvendors2026"
     },
     "232": {
       name: "Illinois Firefighters Association Down and Dirty Weekend",
       color: "#3cb54a",
-      lat: 40.694,
-      lng: -89.543
+      lat: 40.694412,
+      lng: -89.543505
     },
     "233": {
       name: "Tri-State Emergency Responders Conference",
       color: "#3cb54a",
-      lat: 42.499,
-      lng: -90.655
+      lat: 42.498077,
+      lng: -90.655346
     },
     "234": {
       name: "Northeast Iowa Community College Tri-State Emergency Responders Conference",
       color: "#3cb54a",
-      url: "https://www.nicc.edu/tri-state-emergency-responders-conference/",
-      lat: 43.448,
-      lng: -93.352
+      lat: 43.447661,
+      lng: -93.352029,
+      url: "https://www.nicc.edu/tri-state-emergency-responders-conference/"
     },
     "235": {
-      name: "Wildland Fire Canada Conference  Canadian Smoke Forum",
+      name: "Wildland Fire Canada Conference Canadian Smoke Forum",
       color: "#3cb54a",
-      url: "https://wildlandfirecanada.com/sponsors-exhibitors-2/",
-      lat: 52.129,
-      lng: -106.667
+      lat: 52.12879,
+      lng: -106.667647,
+      url: "https://wildlandfirecanada.com/sponsors-exhibitors-2/"
     },
     "236": {
       name: "17th International Wildland Fire Safety Summit",
       color: "#3cb54a",
-      lat: 51.049,
-      lng: -114.057
+      lat: 51.049031,
+      lng: -114.057145
     },
     "237": {
       name: "Colorado Fire Chiefs Leadership Challenge",
       color: "#3cb54a",
-      lat: 39.609,
-      lng: -105.969
+      lat: 39.609066,
+      lng: -105.967399
     },
     "238": {
-      name: "Safety  Health Conference FL",
+      name: "Safety Health Conference FL",
       color: "#3cb54a",
-      lat: 28.341,
-      lng: -81.609
+      lat: 28.341663,
+      lng: -81.609028
     },
     "239": {
       name: "IAFC Southwest District Annual Conference",
       color: "#3cb54a",
-      lat: 36.15,
-      lng: -95.994
+      lat: 36.155138,
+      lng: -95.989501
     },
     "240": {
       name: "Southwest Division International Association Annual Conference",
       color: "#3cb54a",
-      lat: 36.063,
-      lng: -94.159
+      lat: 36.063341,
+      lng: -94.159295
     },
     "241": {
-      name: "Fire  EMS Pro EXPO",
+      name: "Fire EMS Pro EXPO",
       color: "#3cb54a",
-      lat: 41.492,
-      lng: -72.097
+      lat: 41.491797,
+      lng: -72.090387
     },
     "242": {
       name: "FSWO Annual Training Symposium",
       color: "#3cb54a",
-      lat: 43.672,
-      lng: -79.648
+      lat: 43.671924,
+      lng: -79.648587
     },
     "243": {
-      name: "EMS  Fire Pro Expo",
+      name: "EMS Fire Pro Expo",
       color: "#3cb54a",
-      url: "https://emspro.org/",
-      lat: 41.492,
-      lng: -72.097
+      lat: 41.491797,
+      lng: -72.090387,
+      url: "https://emspro.org/"
     },
     "244": {
       name: "Revolutionary Fire Tactics at the Lake",
       color: "#3cb54a",
-      lat: 38.18,
-      lng: -92.623
+      lat: 38.198644,
+      lng: -92.638797
     },
     "245": {
       name: "Ancient City Fire Expo",
       color: "#3cb54a",
-      lat: 29.874,
-      lng: -81.285
+      lat: 29.875792,
+      lng: -81.282959
     },
     "246": {
       name: "Kansas Fire Chiefs Association Conference",
       color: "#3cb54a",
-      lat: 39.175,
-      lng: -96.561
+      lat: 39.175149,
+      lng: -96.560745
     },
     "247": {
       name: "NE Association of Fire Chiefs 2026 Expo",
       color: "#3cb54a",
-      lat: 41.492,
-      lng: -72.097
+      lat: 41.491797,
+      lng: -72.090387
     },
     "248": {
       name: "2026 Instructor Development Conference",
       color: "#3cb54a",
-      lat: 40.234,
-      lng: -79.566
+      lat: 40.235149,
+      lng: -79.565445
     },
     "249": {
       name: "Lt. Joseph P. DiBernardo Memorial Training Seminar",
       color: "#3cb54a",
-      lat: 40.822,
-      lng: -73.021
+      lat: 40.821499,
+      lng: -73.021434
     },
     "250": {
       name: "Water on Fire Conference WOFC",
       color: "#3cb54a",
-      lat: 30.421,
-      lng: -87.217
+      lat: 30.407665,
+      lng: -87.218975
     },
     "251": {
       name: "Tennessee River Training Weekend",
       color: "#3cb54a",
-      lat: 35.224,
-      lng: -88.25
+      lat: 35.224367,
+      lng: -88.250371
     },
     "252": {
       name: "First in Fire Conference - Lecture and HOT Little Rock Arkansas",
       color: "#3076bc",
-      url: "https://first-in.com/",
-      lat: 34.715,
-      lng: -92.223
+      lat: 34.714245,
+      lng: -92.22201,
+      url: "https://first-in.com/"
     },
     "253": {
       name: "For Them Conference",
       color: "#3cb54a",
-      lat: 30.086,
-      lng: -94.101
+      lat: 30.080174,
+      lng: -94.126556
     },
     "254": {
       name: "Carolina Fire Days",
       color: "#3cb54a",
-      lat: 35.497,
-      lng: -80.626
+      lat: 35.496929,
+      lng: -80.626652
     },
     "255": {
       name: "IAFC - Symposium In The Sun - Clearwater Florida",
       color: "#3cb54a",
-      lat: 27.979,
-      lng: -82.828
+      lat: 27.978877,
+      lng: -82.827961
     },
     "256": {
       name: "HFCA - Hawaii Fire Chiefs Association Conference",
       color: "#3cb54a",
-      lat: 21.001,
-      lng: -156.654
+      lat: 21.001068,
+      lng: -156.654114
     },
     "257": {
       name: "Ontario Fire Chiefs Conference",
       color: "#3cb54a",
-      lat: 43.086,
-      lng: -79.061
+      lat: 43.085725,
+      lng: -79.060285
     },
     "258": {
       name: "OFDDA - Oregon Fire District Directors Association",
       color: "#3cb54a",
-      lat: 45.994,
-      lng: -123.926
+      lat: 45.994092,
+      lng: -123.925376
     },
     "259": {
       name: "South Dakota Fire Chiefs Association Conference",
       color: "#3cb54a",
-      lat: 44.385,
-      lng: -103.721
+      lat: 44.385072,
+      lng: -103.721111
     },
     "260": {
       name: "NDFSIS Instructor Conference",
       color: "#3cb54a",
-      lat: 46.806,
-      lng: -100.793
+      lat: 46.805738,
+      lng: -100.792649
     },
     "261": {
       name: "North Central Florida Fire Conference",
       color: "#3cb54a",
-      lat: 29.188,
-      lng: -82.14
+      lat: 29.185078,
+      lng: -82.13426
     },
     "262": {
       name: "Maine Fire Chiefs Association MFCA Professional Development Conference",
       color: "#3cb54a",
-      url: "https://www.mainefirechiefs.com/save-the-date-2026-professional-development-conference",
-      lat: 44.473,
-      lng: -70.855
+      lat: 44.468409,
+      lng: -70.877411,
+      url: "https://www.mainefirechiefs.com/save-the-date-2026-professional-development-conference"
     },
     "263": {
       name: "Great Lakes H.O.T.",
       color: "#3cb54a",
-      lat: 42.966,
-      lng: -85.672
+      lat: 42.970415,
+      lng: -85.672195
     }
   },
   labels: {
