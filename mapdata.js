@@ -40,7 +40,7 @@ var simplemaps_namap_mapdata={
     arrow_color: "#cecece",
     arrow_color_border: "#808080",
     initial_back: "no",
-    initial_zoom: "0",
+    initial_zoom: "-1",
     initial_zoom_solo: "yes",
     region_opacity: 1,
     region_hover_opacity: 0.6,
