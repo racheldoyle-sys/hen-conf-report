@@ -5,7 +5,7 @@
 
   <meta
     name="viewport"
-    content="width=device-width, initial-scale=1"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
   >
 
   <title>HEN Conference Reporting Map</title>
@@ -18,35 +18,74 @@
     html,
     body {
       margin: 0;
-      padding: 0;
       width: 100%;
       min-height: 100%;
-      background: #ffffff;
+      background: #f4f5f6;
       font-family: Arial, Helvetica, sans-serif;
     }
 
     body {
-      overflow: auto;
+      min-height: 100vh;
+      min-height: 100dvh;
     }
 
     .page {
+      display: flex;
+      flex-direction: column;
       width: 100%;
       min-height: 100vh;
-      padding: 20px;
+      min-height: 100dvh;
+      padding: 18px;
     }
 
-    .map-wrapper {
+    .map-card {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
       width: 100%;
-      max-width: 1400px;
-      height: min(760px, calc(100vh - 40px));
-      min-height: 500px;
+      max-width: 1600px;
+      min-height: 0;
       margin: 0 auto;
       overflow: hidden;
-      border: 1px solid #e2e2e2;
+      background: #ffffff;
+      border: 1px solid #e1e3e5;
+      border-radius: 8px;
+      box-shadow: 0 3px 16px rgba(0, 0, 0, 0.06);
+    }
+
+    .map-header {
+      flex: 0 0 auto;
+      padding: 14px 18px;
+      border-bottom: 1px solid #e5e5e5;
+      background: #ffffff;
+    }
+
+    .map-title {
+      margin: 0;
+      color: #202124;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.25;
+    }
+
+    .map-subtitle {
+      margin: 4px 0 0;
+      color: #6a6f73;
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .map-stage {
+      position: relative;
+      flex: 1;
+      min-height: 0;
+      overflow: hidden;
       background: #ffffff;
     }
 
     #map {
+      position: absolute;
+      inset: 0;
       width: 100%;
       height: 100%;
     }
@@ -56,9 +95,34 @@
         padding: 8px;
       }
 
-      .map-wrapper {
-        height: calc(100vh - 16px);
-        min-height: 450px;
+      .map-card {
+        border-radius: 5px;
+      }
+
+      .map-header {
+        padding: 11px 13px;
+      }
+
+      .map-title {
+        font-size: 16px;
+      }
+
+      .map-subtitle {
+        font-size: 11px;
+      }
+    }
+
+    @media screen and (max-height: 650px) {
+      .page {
+        padding: 8px;
+      }
+
+      .map-header {
+        padding: 8px 12px;
+      }
+
+      .map-subtitle {
+        display: none;
       }
     }
   </style>
@@ -66,9 +130,19 @@
 
 <body>
   <main class="page">
-    <div class="map-wrapper">
-      <div id="map"></div>
-    </div>
+    <section class="map-card">
+      <header class="map-header">
+        <h1 class="map-title">2026 Conference Reporting Map</h1>
+
+        <p class="map-subtitle">
+          Select a conference marker to view event details.
+        </p>
+      </header>
+
+      <div class="map-stage">
+        <div id="map"></div>
+      </div>
+    </section>
   </main>
 
   <script src="mapdata.js"></script>
