@@ -1,8 +1,7 @@
 var simplemaps_namap_mapdata={
   main_settings: {
    //General settings
-    width: "750", //'700' or 'responsive'
-    height: "auto",
+    width: "500", //'700' or 'responsive'
     background_color: "#FFFFFF",
     background_transparent: "yes",
     border_color: "#ffffff",
@@ -12,11 +11,11 @@ var simplemaps_namap_mapdata={
     state_hover_color: "#a5b9c4",
     state_url: "",
     border_size: "1.5",
-    all_states_inactive: "yes",
-    all_states_zoomable: "no",
+    all_states_inactive: "no",
+    all_states_zoomable: "yes",
     
     //Location defaults
-    location_description: "Location description",
+    location_description: "Click for Website",
     location_color: "#3076bc",
     location_opacity: "0.8",
     location_hover_opacity: 1,
