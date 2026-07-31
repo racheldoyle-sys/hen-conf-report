@@ -1,319 +1,296 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+<meta charset="utf-8">
 
-  <meta
+<meta
     name="viewport"
-    content="width=device-width, initial-scale=1, viewport-fit=cover"
-  >
+    content="width=device-width, initial-scale=1, viewport-fit=cover">
 
-  <title>2026 Conference Reporting Dashboard</title>
+<title>2026 Conference Reporting Dashboard</title>
 
-  <style>
-    * {
-      box-sizing: border-box;
-    }
+<style>
 
-    html,
-    body {
-      width: 100%;
-      height: 100%;
-      margin: 0;
-      background: #f3f4f6;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-    }
+*{
+    box-sizing:border-box;
+}
 
-    body {
-      padding: 20px;
-    }
+html,
+body{
+    margin:0;
+    width:100%;
+    height:100%;
+    background:#f3f4f6;
+    font-family:Arial,Helvetica,sans-serif;
+}
 
-    .page {
-      width: 100%;
-      max-width: 1700px;
-      height: calc(100vh - 40px);
-      margin: 0 auto;
-    }
+body{
+    padding:20px;
+}
 
-    .map-card {
-      display: flex;
-      flex-direction: column;
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-      background: #ffffff;
-      border: 1px solid #d9d9d9;
-      border-radius: 8px;
-      box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
-    }
+.page{
+    height:calc(100vh - 40px);
+    max-width:1700px;
+    margin:auto;
+}
 
-    /* HEADER */
+.map-card{
+    display:flex;
+    flex-direction:column;
+    height:100%;
+    background:#fff;
+    border-radius:8px;
+    overflow:hidden;
+    border:1px solid #d9d9d9;
+    box-shadow:0 4px 18px rgba(0,0,0,.08);
+}
 
-    .map-header {
-      flex: 0 0 auto;
-      padding: 20px 28px;
-      background: #ffffff;
-      border-bottom: 1px solid #ececec;
-    }
+/* HEADER */
 
-    .map-title {
-      margin: 0;
-      color: #222222;
-      font-size: 28px;
-      font-weight: 700;
-      line-height: 1.2;
-    }
+.map-header{
+    padding:20px 28px;
+    border-bottom:1px solid #ececec;
+}
 
-    .map-description {
-      max-width: 780px;
-      margin: 10px 0;
-      color: #666666;
-      font-size: 15px;
-      line-height: 1.6;
-    }
+.map-title{
+    margin:0;
+    font-size:28px;
+    font-weight:700;
+    color:#222;
+}
 
-    .map-updated {
-      margin: 0;
-      color: #888888;
-      font-size: 13px;
-      line-height: 1.4;
-    }
+.map-description{
+    margin:10px 0 10px;
+    max-width:760px;
+    color:#666;
+    line-height:1.6;
+    font-size:15px;
+}
 
-    /* MAP */
+.map-updated{
+    margin:0;
+    color:#888;
+    font-size:13px;
+}
 
-    .map-stage {
-      position: relative;
-      flex: 1 1 auto;
-      min-width: 0;
-      min-height: 0;
-      overflow: hidden;
-      background: #ffffff;
-    }
+/* MAP */
 
-    #map {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-    }
+.map-stage{
+    position:relative;
+    flex:1;
+    background:white;
+}
 
-    /* LEGEND */
+#map{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+}
 
-    .map-key {
-      position: absolute;
-      top: 18px;
-      right: 18px;
-      z-index: 999;
-      width: 205px;
-      padding: 15px;
-      background: rgba(255, 255, 255, 0.96);
-      border: 1px solid #d8d8d8;
-      border-radius: 8px;
-      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
-      pointer-events: none;
-    }
+/* LEGEND */
 
-    .key-title {
-      margin-bottom: 12px;
-      color: #333333;
-      font-size: 13px;
-      font-weight: 700;
-    }
+.map-key{
 
-    .key-item {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin-bottom: 10px;
-      color: #444444;
-      font-size: 13px;
-      line-height: 1.3;
-    }
+    position:absolute;
 
-    .key-item:last-child {
-      margin-bottom: 0;
-    }
+    top:18px;
 
-    .key-dot {
-      flex: 0 0 auto;
-      width: 13px;
-      height: 13px;
-      border: 2px solid #ffffff;
-      border-radius: 50%;
-      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.18);
-    }
+    right:18px;
 
-    .attending {
-      background: #3076bc;
-    }
+    z-index:999;
 
-    .missed {
-      background: #f99c1c;
-    }
+    width:205px;
 
-    .pending {
-      background: #3cb54a;
-    }
+    background:rgba(255,255,255,.96);
 
-    /* TABLET */
+    border:1px solid #d8d8d8;
 
-    @media screen and (max-width: 1000px) {
-      body {
-        padding: 12px;
-      }
+    border-radius:8px;
 
-      .page {
-        height: calc(100vh - 24px);
-      }
+    padding:15px;
 
-      .map-header {
-        padding: 18px 20px;
-      }
+    box-shadow:0 4px 14px rgba(0,0,0,.12);
 
-      .map-title {
-        font-size: 24px;
-      }
-    }
+}
 
-    /* MOBILE */
+.key-title{
 
-    @media screen and (max-width: 800px) {
-      body {
-        padding: 8px;
-      }
+    font-weight:700;
 
-      .page {
-        height: calc(100vh - 16px);
-      }
+    margin-bottom:12px;
 
-      .map-header {
-        padding: 16px;
-      }
+    color:#333;
 
-      .map-title {
-        font-size: 22px;
-      }
+    font-size:13px;
 
-      .map-description {
-        margin: 8px 0;
-        font-size: 14px;
-        line-height: 1.45;
-      }
+}
 
-      .map-updated {
-        font-size: 12px;
-      }
+.key-item{
 
-      .map-key {
-        top: 10px;
-        right: 10px;
-        width: 170px;
-        padding: 12px;
-      }
+    display:flex;
 
-      .key-title {
-        margin-bottom: 9px;
-        font-size: 12px;
-      }
+    align-items:center;
 
-      .key-item {
-        gap: 8px;
-        margin-bottom: 8px;
-        font-size: 11px;
-      }
+    gap:10px;
 
-      .key-dot {
-        width: 11px;
-        height: 11px;
-      }
-    }
+    margin-bottom:10px;
 
-    /* SMALL MOBILE */
+    font-size:13px;
 
-    @media screen and (max-width: 520px) {
-      .map-header {
-        padding: 13px 14px;
-      }
+    color:#444;
 
-      .map-title {
-        font-size: 19px;
-      }
+}
 
-      .map-description {
-        display: none;
-      }
+.key-item:last-child{
 
-      .map-key {
-        top: 8px;
-        right: 8px;
-        width: 158px;
-        padding: 10px;
-      }
-    }
-  </style>
+    margin-bottom:0;
+
+}
+
+.key-dot{
+
+    width:13px;
+
+    height:13px;
+
+    border-radius:50%;
+
+    border:2px solid white;
+
+    box-shadow:0 0 0 1px rgba(0,0,0,.18);
+
+}
+
+.attending{
+
+    background:#3076bc;
+
+}
+
+.notattending{
+
+    background:#f99c1c;
+
+}
+
+.pending{
+
+    background:#3cb54a;
+
+}
+
+/* MOBILE */
+
+@media (max-width:800px){
+
+body{
+
+    padding:8px;
+
+}
+
+.page{
+
+    height:calc(100vh - 16px);
+
+}
+
+.map-header{
+
+    padding:16px;
+
+}
+
+.map-title{
+
+    font-size:22px;
+
+}
+
+.map-description{
+
+    font-size:14px;
+
+}
+
+.map-key{
+
+    width:170px;
+
+    right:10px;
+
+    top:10px;
+
+    padding:12px;
+
+}
+
+}
+
+</style>
+
 </head>
 
 <body>
 
-  <div class="page">
+<div class="page">
 
-    <div class="map-card">
+<div class="map-card">
 
-      <header class="map-header">
+<div class="map-header">
 
-        <h1 class="map-title">
-          2026 Conference Reporting Dashboard
-        </h1>
+<h1 class="map-title">
+2026 Conference Reporting Dashboard
+</h1>
 
-        <p class="map-description">
-          Track conference coverage across North America in real time.
-          View every scheduled conference, attendance status, location,
-          and event detail from one interactive map.
-        </p>
+<p class="map-description">
+Track conference coverage across North America in real time.
+View every scheduled conference, attendance status, locations, and event details from one interactive map.
+</p>
 
-        <p class="map-updated">
-          <strong>Last Updated:</strong>
-          July 30, 2026
-        </p>
+<p class="map-updated">
+<strong>Last Updated:</strong>
+July 30, 2026 • 10:42 PM
+</p>
 
-      </header>
+</div>
 
-      <main class="map-stage">
+<div class="map-stage">
 
-        <div class="map-key" aria-label="Attendance status legend">
+<div class="map-key">
 
-          <div class="key-title">
-            Attendance Status
-          </div>
+<div class="key-title">
+Attendance Status
+</div>
 
-          <div class="key-item">
-            <span class="key-dot attending"></span>
-            <span>Attended</span>
-          </div>
+<div class="key-item">
+<div class="key-dot attending"></div>
+<div>Attending</div>
+</div>
 
-          <div class="key-item">
-            <span class="key-dot missed"></span>
-            <span>Missed</span>
-          </div>
+<div class="key-item">
+<div class="key-dot notattending"></div>
+<div>Not Attending</div>
+</div>
 
-          <div class="key-item">
-            <span class="key-dot pending"></span>
-            <span>Pending / Considering</span>
-          </div>
+<div class="key-item">
+<div class="key-dot pending"></div>
+<div>Pending / Considering</div>
+</div>
 
-        </div>
+</div>
 
-        <div id="map"></div>
+<div id="map"></div>
 
-      </main>
+</div>
 
-    </div>
+</div>
 
-  </div>
+</div>
 
-  <script src="mapdata.js"></script>
-  <script src="namap.js"></script>
+<script src="mapdata.js"></script>
+<script src="namap.js"></script>
 
 </body>
 </html>
