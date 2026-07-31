@@ -1,7 +1,7 @@
 var simplemaps_namap_mapdata={
   main_settings: {
    //General settings
-	width: "1200", //'700' or 'responsive'
+	width: "900", //'700' or 'responsive'
 	background_color: "#FFFFFF",
 	background_transparent: "yes",
 	border_color: "#ffffff",
@@ -77,10 +77,7 @@ var simplemaps_namap_mapdata={
 	  name: "Alberta"
 	},
 	AK: {
-	  name: "",
-	  color: "#ffffff",
-	  hover_color: "#ffffff",
-	  inactive: "yes"
+	  name: "Alaska"
 	},
 	AL: {
 	  name: "Alabama"
@@ -200,16 +197,10 @@ var simplemaps_namap_mapdata={
 	  name: "Nova Scotia"
 	},
 	NT: {
-	  name: "",
-	  color: "#ffffff",
-	  hover_color: "#ffffff",
-	  inactive: "yes"
+	  name: "Northwest Territories"
 	},
 	NU: {
-	  name: "",
-	  color: "#ffffff",
-	  hover_color: "#ffffff",
-	  inactive: "yes"
+	  name: "Nunavut"
 	},
 	NV: {
 	  name: "Nevada"
@@ -278,11 +269,8 @@ var simplemaps_namap_mapdata={
 	  name: "Wyoming"
 	},
 	YT: {
-	  name: "",
-	  color: "#ffffff",
-	  hover_color: "#ffffff",
-	  inactive: "yes"
-	},
+	  name: "Yukon"
+	}
   },
   locations: {
 	"0": {
