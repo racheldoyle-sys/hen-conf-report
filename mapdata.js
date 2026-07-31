@@ -12,7 +12,7 @@ var simplemaps_namap_mapdata={
 	state_url: "",
 	border_size: "1.5",
 	all_states_inactive: "no",
-	all_states_zoomable: "no",
+	all_states_zoomable: "yes",
 	
 	//Location defaults
 	location_description: "Click for Website",
