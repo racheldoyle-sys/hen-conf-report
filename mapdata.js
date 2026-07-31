@@ -35,7 +35,7 @@ var simplemaps_namap_mapdata={
 	label_size: "22",
 	label_font: "Arial",
 	hide_labels: "no",
-	manual_zoom: "no",
+	manual_zoom: "yes",
 	back_image: "no",
 	arrow_color: "#cecece",
 	arrow_color_border: "#808080",
