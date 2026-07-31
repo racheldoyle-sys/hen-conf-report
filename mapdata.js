@@ -15,7 +15,7 @@ var simplemaps_namap_mapdata={
     all_states_zoomable: "no",
     
     //Location defaults
-    location_description: "click for website",
+    location_description: "Location description",
     location_color: "#3076bc",
     location_opacity: "0.8",
     location_hover_opacity: 1,
