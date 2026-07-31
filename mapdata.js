@@ -1,7 +1,8 @@
 var simplemaps_namap_mapdata={
   main_settings: {
    //General settings
-    width: "responsive", //'700' or 'responsive'
+    width: "750", //'700' or 'responsive'
+    height: "auto",
     background_color: "#FFFFFF",
     background_transparent: "yes",
     border_color: "#ffffff",
