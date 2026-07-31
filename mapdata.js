@@ -40,7 +40,7 @@ var simplemaps_namap_mapdata={
     arrow_color: "#cecece",
     arrow_color_border: "#808080",
     initial_back: "no",
-    initial_zoom: "-1",
+    initial_zoom: "0",
     initial_zoom_solo: "no",
     region_opacity: 1,
     region_hover_opacity: 0.6,
@@ -2327,31 +2327,6 @@ var simplemaps_namap_mapdata={
       x: "760.2",
       y: "556.5"
     }
-  },
-  legend: {
-    entries: [
-      {
-        name: "Attended",
-        color: "#3076bc",
-        type: "location",
-        shape: "marker",
-        ids: ""
-      },
-      {
-        name: "Missed",
-        color: "#f99c1c",
-        type: "location",
-        shape: "marker",
-        ids: ""
-      },
-      {
-        name: "Scheduled",
-        color: "#3cb54a",
-        type: "location",
-        shape: "marker",
-        ids: ""
-      }
-    ]
   },
   regions: {
     "0": {
