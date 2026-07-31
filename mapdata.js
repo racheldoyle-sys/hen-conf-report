@@ -2,7 +2,6 @@ var simplemaps_namap_mapdata={
   main_settings: {
    //General settings
     width: "responsive", //'700' or 'responsive'
-    height: "responsive",
     background_color: "#FFFFFF",
     background_transparent: "yes",
     border_color: "#ffffff",
@@ -34,7 +33,7 @@ var simplemaps_namap_mapdata={
     label_color: "#e6e6e6",
     label_hover_color: "#e6e6e6",
     label_size: "22",
-    label_font: "Roboto",
+    label_font: "Arial",
     hide_labels: "no",
     manual_zoom: "yes",
     back_image: "no",
