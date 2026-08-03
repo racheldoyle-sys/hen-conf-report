@@ -164,10 +164,7 @@ var simplemaps_namap_mapdata={
 	  name: "Montana"
 	},
 	MX: {
-	  name: "",
-	  color: "#ffffff",
-	  hover_color: "#ffffff",
-	  inactive: "yes"
+	  hide: "yes"
 	},
 	NB: {
 	  name: "New Brunswick"
