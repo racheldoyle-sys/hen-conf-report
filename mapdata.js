@@ -2785,7 +2785,7 @@ var simplemaps_namap_mapdata={
     },
     "231": {
       name: "NE Association of Fire Chiefs 2026 Expo",
-      color: "#3cb54a",
+      color: "#3076bc",
       lat: 41.491797,
       lng: -72.090387,
       eventType: "Conference",
